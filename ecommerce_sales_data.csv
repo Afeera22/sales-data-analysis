@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,category,product_name,region,payment_method,quantity,unit_price,discount_pct,discount_amount,final_amount,order_status
+ORD10000,2023-01-01,CUST3771,Electronics,Electronics Product 48,North,Net Banking,1,6875.81,5,343.79,6532.02,Delivered
+ORD10001,2023-01-01,CUST1108,Books,Books Product 36,South,Net Banking,1,143.53,5,7.18,136.35,Delivered
+ORD10002,2023-01-01,CUST4108,Books,Books Product 11,West,UPI,2,407.84,20,163.14,652.54,Delivered
+ORD10003,2023-01-02,CUST2556,Home & Kitchen,Home & Kitchen Product 7,East,UPI,5,2754.45,5,688.61,13083.64,Delivered
+ORD10004,2023-01-02,CUST4985,Beauty & Personal Care,Beauty & Personal Care Product 25,North,Net Banking,1,939.92,10,93.99,845.93,Delivered
+ORD10005,2023-01-02,CUST1787,Home & Kitchen,Home & Kitchen Product 46,North,Credit Card,2,12526.37,25,6263.19,18789.55,Delivered
+ORD10006,2023-01-03,CUST2556,Clothing,Clothing Product 18,West,UPI,5,3933.19,25,4916.49,14749.46,Delivered
+ORD10007,2023-01-03,CUST3495,Clothing,Clothing Product 41,South,Net Banking,1,2039.22,5,101.96,1937.26,Delivered
+ORD10008,2023-01-03,CUST1899,Clothing,Clothing Product 44,East,Credit Card,1,1067.16,30,320.15,747.01,Delivered
+ORD10009,2023-01-04,CUST1864,Clothing,Clothing Product 37,East,Debit Card,3,4162.29,10,1248.69,11238.18,Delivered
+ORD10010,2023-01-04,CUST1571,Books,Books Product 16,East,Net Banking,4,653.28,10,261.31,2351.81,Cancelled
+ORD10011,2023-01-05,CUST3087,Books,Books Product 32,North,Credit Card,1,1356.85,5,67.84,1289.01,Returned
+ORD10012,2023-01-05,CUST1260,Electronics,Electronics Product 25,West,Net Banking,1,16463.1,15,2469.46,13993.64,Delivered
+ORD10013,2023-01-05,CUST3786,Books,Books Product 47,North,Net Banking,5,840.29,25,1050.36,3151.09,Delivered
+ORD10014,2023-01-06,CUST2858,Home & Kitchen,Home & Kitchen Product 1,East,Net Banking,1,11644.68,5,582.23,11062.45,Returned
+ORD10015,2023-01-06,CUST3494,Clothing,Clothing Product 13,South,UPI,1,2685.61,15,402.84,2282.77,Delivered
+ORD10016,2023-01-06,CUST3453,Clothing,Clothing Product 21,West,Credit Card,3,2834.62,10,850.39,7653.47,Delivered
+ORD10017,2023-01-07,CUST1980,Electronics,Electronics Product 4,South,Net Banking,4,74682.4,20,59745.92,238983.68,Cancelled
+ORD10018,2023-01-07,CUST4136,Electronics,Electronics Product 9,South,Cash on Delivery,1,11424.01,0,0.0,11424.01,Delivered
+ORD10019,2023-01-07,CUST4804,Beauty & Personal Care,Beauty & Personal Care Product 35,South,UPI,2,661.52,15,198.46,1124.58,Returned
+ORD10020,2023-01-08,CUST2849,Books,Books Product 8,South,Debit Card,2,1493.2,10,298.64,2687.76,Delivered
+ORD10021,2023-01-08,CUST1029,Electronics,Electronics Product 5,North,Debit Card,2,30356.42,5,3035.64,57677.2,Returned
+ORD10022,2023-01-09,CUST2140,Electronics,Electronics Product 43,West,Debit Card,3,72906.5,0,0.0,218719.5,Returned
+ORD10023,2023-01-09,CUST1995,Beauty & Personal Care,Beauty & Personal Care Product 31,West,Debit Card,4,569.61,15,341.77,1936.67,Delivered
+ORD10024,2023-01-09,CUST4538,Electronics,Electronics Product 47,North,Credit Card,1,12269.81,10,1226.98,11042.83,Delivered
+ORD10025,2023-01-10,CUST1784,Electronics,Electronics Product 13,West,Debit Card,1,35196.6,25,8799.15,26397.45,Returned
+ORD10026,2023-01-10,CUST2815,Books,Books Product 36,North,Credit Card,1,356.07,25,89.02,267.05,Delivered
+ORD10027,2023-01-10,CUST1681,Beauty & Personal Care,Beauty & Personal Care Product 27,West,Cash on Delivery,5,2540.71,25,3175.89,9527.66,Returned
+ORD10028,2023-01-11,CUST2599,Clothing,Clothing Product 17,West,UPI,4,4363.72,0,0.0,17454.88,Delivered
+ORD10029,2023-01-11,CUST1634,Books,Books Product 13,East,Debit Card,2,1074.92,20,429.97,1719.87,Delivered
+ORD10030,2023-01-11,CUST1205,Electronics,Electronics Product 38,West,Net Banking,2,48438.52,20,19375.41,77501.63,Delivered
+ORD10031,2023-01-12,CUST1280,Beauty & Personal Care,Beauty & Personal Care Product 39,North,Debit Card,5,639.97,0,0.0,3199.85,Returned
+ORD10032,2023-01-12,CUST1162,Books,Books Product 40,North,Cash on Delivery,4,266.96,5,53.39,1014.45,Delivered
+ORD10033,2023-01-13,CUST1977,Beauty & Personal Care,Beauty & Personal Care Product 17,West,Debit Card,1,1782.2,5,89.11,1693.09,Cancelled
+ORD10034,2023-01-13,CUST2877,Home & Kitchen,Home & Kitchen Product 40,North,Credit Card,4,7129.76,25,7129.76,21389.28,Delivered
+ORD10035,2023-01-13,CUST4601,Beauty & Personal Care,Beauty & Personal Care Product 16,East,UPI,1,796.05,25,199.01,597.04,Delivered
+ORD10036,2023-01-14,CUST1032,Clothing,Clothing Product 43,East,Credit Card,2,2358.91,5,235.89,4481.93,Delivered
+ORD10037,2023-01-14,CUST2115,Clothing,Clothing Product 19,South,UPI,4,1542.25,20,1233.8,4935.2,Returned
+ORD10038,2023-01-14,CUST4708,Clothing,Clothing Product 4,North,Cash on Delivery,3,3530.92,10,1059.28,9533.48,Cancelled
+ORD10039,2023-01-15,CUST1661,Home & Kitchen,Home & Kitchen Product 48,West,Net Banking,1,1139.26,0,0.0,1139.26,Cancelled
+ORD10040,2023-01-15,CUST3234,Books,Books Product 3,East,Net Banking,1,884.83,25,221.21,663.62,Returned
+ORD10041,2023-01-15,CUST4681,Beauty & Personal Care,Beauty & Personal Care Product 23,South,Debit Card,1,613.81,5,30.69,583.12,Delivered
+ORD10042,2023-01-16,CUST4069,Electronics,Electronics Product 10,South,Debit Card,2,31525.9,25,15762.95,47288.85,Delivered
+ORD10043,2023-01-16,CUST4204,Clothing,Clothing Product 27,South,UPI,1,4442.54,20,888.51,3554.03,Cancelled
+ORD10044,2023-01-17,CUST1911,Clothing,Clothing Product 13,West,UPI,1,4000.45,25,1000.11,3000.34,Delivered
+ORD10045,2023-01-17,CUST2632,Home & Kitchen,Home & Kitchen Product 22,East,Credit Card,4,12397.78,5,2479.56,47111.56,Returned
+ORD10046,2023-01-17,CUST2356,Home & Kitchen,Home & Kitchen Product 2,North,UPI,2,5591.62,15,1677.49,9505.75,Delivered
+ORD10047,2023-01-18,CUST2779,Clothing,Clothing Product 23,East,Cash on Delivery,5,3028.35,0,0.0,15141.75,Delivered
+ORD10048,2023-01-18,CUST2043,Beauty & Personal Care,Beauty & Personal Care Product 3,West,Credit Card,1,2955.84,25,738.96,2216.88,Returned
+ORD10049,2023-01-18,CUST2491,Beauty & Personal Care,Beauty & Personal Care Product 28,North,UPI,2,2791.54,20,1116.62,4466.46,Returned
+ORD10050,2023-01-19,CUST3077,Beauty & Personal Care,Beauty & Personal Care Product 20,West,UPI,3,1078.28,20,646.97,2587.87,Cancelled
+ORD10051,2023-01-19,CUST3774,Books,Books Product 48,South,Net Banking,2,1075.79,0,0.0,2151.58,Delivered
+ORD10052,2023-01-19,CUST1860,Beauty & Personal Care,Beauty & Personal Care Product 28,East,Cash on Delivery,2,1041.96,0,0.0,2083.92,Cancelled
+ORD10053,2023-01-20,CUST3698,Books,Books Product 6,East,Net Banking,1,718.47,10,71.85,646.62,Returned
+ORD10054,2023-01-20,CUST1920,Beauty & Personal Care,Beauty & Personal Care Product 13,South,Credit Card,3,1137.86,20,682.72,2730.86,Cancelled
+ORD10055,2023-01-21,CUST2865,Electronics,Electronics Product 27,South,Cash on Delivery,1,23363.19,20,4672.64,18690.55,Delivered
+ORD10056,2023-01-21,CUST4188,Books,Books Product 28,South,Debit Card,1,658.91,15,98.84,560.07,Delivered
+ORD10057,2023-01-21,CUST2869,Beauty & Personal Care,Beauty & Personal Care Product 9,West,Net Banking,2,1500.2,25,750.1,2250.3,Delivered
+ORD10058,2023-01-22,CUST4338,Beauty & Personal Care,Beauty & Personal Care Product 47,West,Net Banking,5,1866.86,25,2333.57,7000.73,Delivered
+ORD10059,2023-01-22,CUST4079,Books,Books Product 16,East,Net Banking,2,1355.99,10,271.2,2440.78,Cancelled
+ORD10060,2023-01-22,CUST1960,Books,Books Product 18,East,UPI,1,977.07,0,0.0,977.07,Cancelled
+ORD10061,2023-01-23,CUST3893,Beauty & Personal Care,Beauty & Personal Care Product 14,North,Cash on Delivery,1,424.7,10,42.47,382.23,Returned
+ORD10062,2023-01-23,CUST2595,Books,Books Product 50,North,Net Banking,1,562.56,0,0.0,562.56,Delivered
+ORD10063,2023-01-23,CUST4495,Books,Books Product 27,South,Cash on Delivery,4,767.25,5,153.45,2915.55,Delivered
+ORD10064,2023-01-24,CUST3966,Clothing,Clothing Product 11,West,Debit Card,1,1582.07,10,158.21,1423.86,Delivered
+ORD10065,2023-01-24,CUST1343,Beauty & Personal Care,Beauty & Personal Care Product 42,West,Debit Card,4,1695.08,15,1017.05,5763.27,Delivered
+ORD10066,2023-01-25,CUST2338,Books,Books Product 22,West,UPI,1,353.6,5,17.68,335.92,Delivered
+ORD10067,2023-01-25,CUST1213,Books,Books Product 23,South,Credit Card,1,452.43,0,0.0,452.43,Delivered
+ORD10068,2023-01-25,CUST3544,Electronics,Electronics Product 10,South,Debit Card,4,61567.49,0,0.0,246269.96,Delivered
+ORD10069,2023-01-26,CUST4141,Books,Books Product 24,South,Net Banking,2,1036.91,5,103.69,1970.13,Cancelled
+ORD10070,2023-01-26,CUST4951,Beauty & Personal Care,Beauty & Personal Care Product 20,North,Net Banking,2,2898.42,20,1159.37,4637.47,Returned
+ORD10071,2023-01-26,CUST2624,Electronics,Electronics Product 46,South,Credit Card,2,74666.54,25,37333.27,111999.81,Delivered
+ORD10072,2023-01-27,CUST4482,Beauty & Personal Care,Beauty & Personal Care Product 44,North,Net Banking,2,2133.41,0,0.0,4266.82,Cancelled
+ORD10073,2023-01-27,CUST3652,Electronics,Electronics Product 22,North,Cash on Delivery,1,31040.28,10,3104.03,27936.25,Delivered
+ORD10074,2023-01-27,CUST3897,Books,Books Product 10,West,Debit Card,5,246.86,15,185.15,1049.15,Delivered
+ORD10075,2023-01-28,CUST4172,Beauty & Personal Care,Beauty & Personal Care Product 31,West,Cash on Delivery,1,2903.29,20,580.66,2322.63,Delivered
+ORD10076,2023-01-28,CUST2142,Beauty & Personal Care,Beauty & Personal Care Product 29,South,Cash on Delivery,3,950.78,20,570.47,2281.87,Delivered
+ORD10077,2023-01-29,CUST1744,Beauty & Personal Care,Beauty & Personal Care Product 32,South,UPI,1,1908.54,0,0.0,1908.54,Cancelled
+ORD10078,2023-01-29,CUST3276,Home & Kitchen,Home & Kitchen Product 1,South,Credit Card,4,5434.91,20,4347.93,17391.71,Cancelled
+ORD10079,2023-01-29,CUST3645,Clothing,Clothing Product 46,West,Cash on Delivery,1,3684.07,20,736.81,2947.26,Delivered
+ORD10080,2023-01-30,CUST3719,Electronics,Electronics Product 38,East,Cash on Delivery,1,11979.0,15,1796.85,10182.15,Cancelled
+ORD10081,2023-01-30,CUST2441,Beauty & Personal Care,Beauty & Personal Care Product 45,West,UPI,1,1686.11,20,337.22,1348.89,Cancelled
+ORD10082,2023-01-30,CUST4042,Home & Kitchen,Home & Kitchen Product 35,South,Debit Card,1,4145.35,0,0.0,4145.35,Delivered
+ORD10083,2023-01-31,CUST3444,Clothing,Clothing Product 19,North,Debit Card,1,3771.18,15,565.68,3205.5,Delivered
+ORD10084,2023-01-31,CUST1518,Home & Kitchen,Home & Kitchen Product 18,North,Credit Card,1,3798.51,0,0.0,3798.51,Delivered
+ORD10085,2023-01-31,CUST1420,Beauty & Personal Care,Beauty & Personal Care Product 1,East,Cash on Delivery,4,1017.27,15,610.36,3458.72,Delivered
+ORD10086,2023-02-01,CUST1467,Books,Books Product 5,West,Cash on Delivery,1,716.1,0,0.0,716.1,Delivered
+ORD10087,2023-02-01,CUST4887,Electronics,Electronics Product 20,North,Debit Card,2,48276.59,0,0.0,96553.18,Delivered
+ORD10088,2023-02-02,CUST1924,Electronics,Electronics Product 50,West,Cash on Delivery,1,46855.48,15,7028.32,39827.16,Delivered
+ORD10089,2023-02-02,CUST3543,Books,Books Product 4,North,Debit Card,2,515.59,10,103.12,928.06,Delivered
+ORD10090,2023-02-02,CUST1307,Clothing,Clothing Product 11,North,Cash on Delivery,1,1543.1,5,77.16,1465.94,Delivered
+ORD10091,2023-02-03,CUST3895,Books,Books Product 19,West,Credit Card,1,1064.81,0,0.0,1064.81,Cancelled
+ORD10092,2023-02-03,CUST2741,Clothing,Clothing Product 8,South,Debit Card,3,4642.31,15,2089.04,11837.89,Returned
+ORD10093,2023-02-03,CUST3437,Home & Kitchen,Home & Kitchen Product 48,East,Cash on Delivery,1,12486.15,0,0.0,12486.15,Cancelled
+ORD10094,2023-02-04,CUST3049,Electronics,Electronics Product 35,West,Cash on Delivery,1,40152.35,10,4015.24,36137.11,Cancelled
+ORD10095,2023-02-04,CUST2025,Electronics,Electronics Product 2,North,Debit Card,4,49852.75,20,39882.2,159528.8,Delivered
+ORD10096,2023-02-04,CUST3360,Beauty & Personal Care,Beauty & Personal Care Product 3,South,Cash on Delivery,1,1843.53,20,368.71,1474.82,Cancelled
+ORD10097,2023-02-05,CUST2785,Beauty & Personal Care,Beauty & Personal Care Product 41,West,Credit Card,4,2023.88,0,0.0,8095.52,Delivered
+ORD10098,2023-02-05,CUST2350,Books,Books Product 27,West,UPI,1,586.49,15,87.97,498.52,Returned
+ORD10099,2023-02-06,CUST2033,Books,Books Product 21,North,Cash on Delivery,2,1238.81,10,247.76,2229.86,Cancelled
+ORD10100,2023-02-06,CUST2692,Beauty & Personal Care,Beauty & Personal Care Product 4,South,Net Banking,1,2509.62,25,627.4,1882.22,Delivered
+ORD10101,2023-02-06,CUST1833,Home & Kitchen,Home & Kitchen Product 18,South,UPI,1,9528.19,10,952.82,8575.37,Delivered
+ORD10102,2023-02-07,CUST4273,Books,Books Product 16,South,UPI,1,1333.07,0,0.0,1333.07,Delivered
+ORD10103,2023-02-07,CUST2890,Beauty & Personal Care,Beauty & Personal Care Product 8,South,Cash on Delivery,1,237.3,5,11.87,225.43,Delivered
+ORD10104,2023-02-07,CUST1998,Home & Kitchen,Home & Kitchen Product 30,South,Cash on Delivery,1,7878.64,20,1575.73,6302.91,Delivered
+ORD10105,2023-02-08,CUST2131,Clothing,Clothing Product 50,West,UPI,2,4632.7,25,2316.35,6949.05,Delivered
+ORD10106,2023-02-08,CUST3375,Beauty & Personal Care,Beauty & Personal Care Product 43,West,Debit Card,1,947.35,20,189.47,757.88,Delivered
+ORD10107,2023-02-08,CUST2545,Books,Books Product 30,East,Debit Card,1,853.55,15,128.03,725.52,Delivered
+ORD10108,2023-02-09,CUST2303,Clothing,Clothing Product 48,West,Cash on Delivery,1,2987.02,20,597.4,2389.62,Delivered
+ORD10109,2023-02-09,CUST3028,Books,Books Product 3,South,Net Banking,3,1483.77,15,667.7,3783.61,Returned
+ORD10110,2023-02-10,CUST3154,Beauty & Personal Care,Beauty & Personal Care Product 30,North,Debit Card,1,1128.92,20,225.78,903.14,Delivered
+ORD10111,2023-02-10,CUST2386,Books,Books Product 40,West,Credit Card,5,1319.18,0,0.0,6595.9,Cancelled
+ORD10112,2023-02-10,CUST3567,Home & Kitchen,Home & Kitchen Product 46,West,Net Banking,3,12858.95,10,3857.69,34719.16,Cancelled
+ORD10113,2023-02-11,CUST1931,Electronics,Electronics Product 48,North,Cash on Delivery,1,51309.46,15,7696.42,43613.04,Cancelled
+ORD10114,2023-02-11,CUST3842,Electronics,Electronics Product 20,North,Credit Card,2,62027.73,0,0.0,124055.46,Returned
+ORD10115,2023-02-11,CUST2000,Home & Kitchen,Home & Kitchen Product 34,West,Net Banking,1,12044.08,10,1204.41,10839.67,Returned
+ORD10116,2023-02-12,CUST3798,Clothing,Clothing Product 16,West,Net Banking,1,1098.09,25,274.52,823.57,Delivered
+ORD10117,2023-02-12,CUST4681,Clothing,Clothing Product 30,East,Net Banking,2,1390.52,10,278.1,2502.94,Delivered
+ORD10118,2023-02-12,CUST3617,Clothing,Clothing Product 28,East,Cash on Delivery,4,646.22,30,775.46,1809.42,Cancelled
+ORD10119,2023-02-13,CUST2562,Home & Kitchen,Home & Kitchen Product 37,East,Net Banking,1,3388.65,10,338.87,3049.78,Returned
+ORD10120,2023-02-13,CUST2124,Home & Kitchen,Home & Kitchen Product 1,North,Net Banking,1,14894.03,30,4468.21,10425.82,Delivered
+ORD10121,2023-02-14,CUST3486,Books,Books Product 23,South,Debit Card,4,1265.81,20,1012.65,4050.59,Returned
+ORD10122,2023-02-14,CUST3573,Beauty & Personal Care,Beauty & Personal Care Product 7,North,UPI,3,901.01,20,540.61,2162.42,Returned
+ORD10123,2023-02-14,CUST2338,Books,Books Product 48,West,Debit Card,1,145.74,0,0.0,145.74,Cancelled
+ORD10124,2023-02-15,CUST3055,Clothing,Clothing Product 18,South,UPI,2,920.28,30,552.17,1288.39,Delivered
+ORD10125,2023-02-15,CUST2918,Books,Books Product 5,South,Debit Card,1,1454.31,25,363.58,1090.73,Delivered
+ORD10126,2023-02-15,CUST1057,Books,Books Product 17,North,Cash on Delivery,3,1454.14,10,436.24,3926.18,Delivered
+ORD10127,2023-02-16,CUST1443,Home & Kitchen,Home & Kitchen Product 44,South,Cash on Delivery,2,10256.01,15,3076.8,17435.22,Cancelled
+ORD10128,2023-02-16,CUST1906,Electronics,Electronics Product 42,North,Cash on Delivery,4,51466.02,5,10293.2,195570.88,Delivered
+ORD10129,2023-02-17,CUST2246,Home & Kitchen,Home & Kitchen Product 32,North,Credit Card,1,9913.97,0,0.0,9913.97,Delivered
+ORD10130,2023-02-17,CUST2716,Clothing,Clothing Product 38,South,Cash on Delivery,1,4470.01,10,447.0,4023.01,Delivered
+ORD10131,2023-02-17,CUST1134,Electronics,Electronics Product 45,East,Debit Card,2,67526.98,25,33763.49,101290.47,Cancelled
+ORD10132,2023-02-18,CUST3230,Books,Books Product 42,East,Credit Card,1,722.02,10,72.2,649.82,Cancelled
+ORD10133,2023-02-18,CUST1375,Books,Books Product 43,South,Net Banking,5,485.51,25,606.89,1820.66,Delivered
+ORD10134,2023-02-18,CUST1840,Electronics,Electronics Product 5,South,Net Banking,1,8793.39,30,2638.02,6155.37,Delivered
+ORD10135,2023-02-19,CUST1011,Clothing,Clothing Product 18,South,Debit Card,1,4121.16,20,824.23,3296.93,Delivered
+ORD10136,2023-02-19,CUST1539,Beauty & Personal Care,Beauty & Personal Care Product 1,East,Debit Card,1,901.08,15,135.16,765.92,Delivered
+ORD10137,2023-02-19,CUST3154,Beauty & Personal Care,Beauty & Personal Care Product 8,North,Cash on Delivery,1,1105.88,0,0.0,1105.88,Delivered
+ORD10138,2023-02-20,CUST1907,Books,Books Product 40,North,Net Banking,2,1189.0,0,0.0,2378.0,Delivered
+ORD10139,2023-02-20,CUST4470,Home & Kitchen,Home & Kitchen Product 26,West,Credit Card,5,7141.62,0,0.0,35708.1,Delivered
+ORD10140,2023-02-21,CUST3491,Books,Books Product 10,North,Debit Card,1,1097.07,25,274.27,822.8,Cancelled
+ORD10141,2023-02-21,CUST3446,Home & Kitchen,Home & Kitchen Product 34,East,Cash on Delivery,2,9552.6,20,3821.04,15284.16,Delivered
+ORD10142,2023-02-21,CUST3952,Beauty & Personal Care,Beauty & Personal Care Product 14,West,Cash on Delivery,1,1894.8,20,378.96,1515.84,Delivered
+ORD10143,2023-02-22,CUST2280,Clothing,Clothing Product 28,East,UPI,3,2244.34,10,673.3,6059.72,Delivered
+ORD10144,2023-02-22,CUST4406,Home & Kitchen,Home & Kitchen Product 6,North,Cash on Delivery,2,14327.09,10,2865.42,25788.76,Delivered
+ORD10145,2023-02-22,CUST3402,Electronics,Electronics Product 36,East,Credit Card,1,60844.17,0,0.0,60844.17,Delivered
+ORD10146,2023-02-23,CUST4966,Books,Books Product 19,East,UPI,2,594.39,20,237.76,951.02,Delivered
+ORD10147,2023-02-23,CUST4470,Electronics,Electronics Product 7,East,Net Banking,1,48343.89,15,7251.58,41092.31,Returned
+ORD10148,2023-02-23,CUST4461,Home & Kitchen,Home & Kitchen Product 36,North,Net Banking,1,2165.84,5,108.29,2057.55,Delivered
+ORD10149,2023-02-24,CUST2437,Home & Kitchen,Home & Kitchen Product 1,South,Debit Card,1,919.82,20,183.96,735.86,Cancelled
+ORD10150,2023-02-24,CUST1375,Beauty & Personal Care,Beauty & Personal Care Product 48,South,Cash on Delivery,1,2040.22,20,408.04,1632.18,Delivered
+ORD10151,2023-02-25,CUST4181,Books,Books Product 37,North,Credit Card,1,734.56,5,36.73,697.83,Cancelled
+ORD10152,2023-02-25,CUST2814,Clothing,Clothing Product 43,West,Cash on Delivery,2,1038.98,15,311.69,1766.27,Cancelled
+ORD10153,2023-02-25,CUST2413,Beauty & Personal Care,Beauty & Personal Care Product 28,North,UPI,1,1437.17,20,287.43,1149.74,Delivered
+ORD10154,2023-02-26,CUST3454,Beauty & Personal Care,Beauty & Personal Care Product 4,North,Debit Card,2,1562.06,0,0.0,3124.12,Delivered
+ORD10155,2023-02-26,CUST2343,Home & Kitchen,Home & Kitchen Product 8,North,Cash on Delivery,3,14207.2,20,8524.32,34097.28,Cancelled
+ORD10156,2023-02-26,CUST3288,Books,Books Product 43,East,Credit Card,1,345.15,20,69.03,276.12,Delivered
+ORD10157,2023-02-27,CUST4531,Books,Books Product 21,West,Net Banking,1,1306.33,0,0.0,1306.33,Delivered
+ORD10158,2023-02-27,CUST4957,Books,Books Product 21,South,Net Banking,1,1093.01,0,0.0,1093.01,Delivered
+ORD10159,2023-02-27,CUST1996,Books,Books Product 28,West,Net Banking,4,1264.67,0,0.0,5058.68,Delivered
+ORD10160,2023-02-28,CUST4191,Electronics,Electronics Product 11,North,Net Banking,1,34682.5,5,1734.12,32948.38,Cancelled
+ORD10161,2023-02-28,CUST3979,Electronics,Electronics Product 42,South,Debit Card,1,44795.36,20,8959.07,35836.29,Cancelled
+ORD10162,2023-03-01,CUST1725,Electronics,Electronics Product 50,West,Cash on Delivery,1,15983.32,15,2397.5,13585.82,Delivered
+ORD10163,2023-03-01,CUST3633,Beauty & Personal Care,Beauty & Personal Care Product 41,East,UPI,1,2327.42,25,581.86,1745.56,Delivered
+ORD10164,2023-03-01,CUST3422,Clothing,Clothing Product 4,East,Net Banking,1,2366.32,15,354.95,2011.37,Cancelled
+ORD10165,2023-03-02,CUST1314,Electronics,Electronics Product 42,North,Net Banking,1,28280.59,0,0.0,28280.59,Cancelled
+ORD10166,2023-03-02,CUST2842,Beauty & Personal Care,Beauty & Personal Care Product 37,South,UPI,1,1619.3,15,242.9,1376.4,Delivered
+ORD10167,2023-03-02,CUST4321,Beauty & Personal Care,Beauty & Personal Care Product 22,North,Net Banking,1,1531.24,0,0.0,1531.24,Delivered
+ORD10168,2023-03-03,CUST3141,Clothing,Clothing Product 40,South,UPI,2,483.01,30,289.81,676.21,Delivered
+ORD10169,2023-03-03,CUST1214,Home & Kitchen,Home & Kitchen Product 41,East,Credit Card,1,13810.08,20,2762.02,11048.06,Delivered
+ORD10170,2023-03-03,CUST4576,Home & Kitchen,Home & Kitchen Product 10,East,Credit Card,2,1870.34,5,187.03,3553.65,Delivered
+ORD10171,2023-03-04,CUST1528,Beauty & Personal Care,Beauty & Personal Care Product 39,North,UPI,4,2057.78,5,411.56,7819.56,Delivered
+ORD10172,2023-03-04,CUST1382,Beauty & Personal Care,Beauty & Personal Care Product 42,West,Net Banking,3,1254.08,20,752.45,3009.79,Delivered
+ORD10173,2023-03-05,CUST4881,Home & Kitchen,Home & Kitchen Product 50,West,Debit Card,1,764.34,30,229.3,535.04,Cancelled
+ORD10174,2023-03-05,CUST3079,Clothing,Clothing Product 50,North,UPI,1,4999.89,5,249.99,4749.9,Delivered
+ORD10175,2023-03-05,CUST4313,Beauty & Personal Care,Beauty & Personal Care Product 11,West,Credit Card,1,566.07,0,0.0,566.07,Delivered
+ORD10176,2023-03-06,CUST2167,Books,Books Product 49,West,Debit Card,2,609.38,30,365.63,853.13,Delivered
+ORD10177,2023-03-06,CUST2506,Beauty & Personal Care,Beauty & Personal Care Product 44,West,Cash on Delivery,5,868.91,20,868.91,3475.64,Returned
+ORD10178,2023-03-06,CUST4345,Home & Kitchen,Home & Kitchen Product 13,South,UPI,2,11782.8,10,2356.56,21209.04,Returned
+ORD10179,2023-03-07,CUST3913,Electronics,Electronics Product 34,North,UPI,4,53088.43,15,31853.06,180500.66,Delivered
+ORD10180,2023-03-07,CUST4403,Electronics,Electronics Product 28,North,Debit Card,1,62233.76,25,15558.44,46675.32,Returned
+ORD10181,2023-03-07,CUST3056,Books,Books Product 24,South,Cash on Delivery,4,1338.37,10,535.35,4818.13,Delivered
+ORD10182,2023-03-08,CUST4241,Electronics,Electronics Product 10,South,Credit Card,1,33118.45,25,8279.61,24838.84,Cancelled
+ORD10183,2023-03-08,CUST2837,Home & Kitchen,Home & Kitchen Product 40,North,Credit Card,1,13802.24,20,2760.45,11041.79,Delivered
+ORD10184,2023-03-09,CUST3161,Electronics,Electronics Product 28,North,UPI,3,24194.29,10,7258.29,65324.58,Delivered
+ORD10185,2023-03-09,CUST2872,Clothing,Clothing Product 5,North,Cash on Delivery,1,1714.71,10,171.47,1543.24,Delivered
+ORD10186,2023-03-09,CUST2193,Beauty & Personal Care,Beauty & Personal Care Product 28,North,Net Banking,2,1700.49,15,510.15,2890.83,Returned
+ORD10187,2023-03-10,CUST3144,Home & Kitchen,Home & Kitchen Product 24,North,Net Banking,1,3988.18,15,598.23,3389.95,Delivered
+ORD10188,2023-03-10,CUST4577,Beauty & Personal Care,Beauty & Personal Care Product 31,North,Cash on Delivery,5,1620.02,15,1215.02,6885.08,Delivered
+ORD10189,2023-03-10,CUST1987,Home & Kitchen,Home & Kitchen Product 47,North,Net Banking,1,4177.93,20,835.59,3342.34,Cancelled
+ORD10190,2023-03-11,CUST4401,Home & Kitchen,Home & Kitchen Product 50,West,Cash on Delivery,1,2434.44,5,121.72,2312.72,Returned
+ORD10191,2023-03-11,CUST1151,Clothing,Clothing Product 19,South,Credit Card,1,4113.85,20,822.77,3291.08,Delivered
+ORD10192,2023-03-11,CUST4339,Clothing,Clothing Product 35,West,UPI,1,4463.1,5,223.16,4239.94,Delivered
+ORD10193,2023-03-12,CUST4546,Electronics,Electronics Product 42,East,UPI,1,61496.82,10,6149.68,55347.14,Delivered
+ORD10194,2023-03-12,CUST4664,Electronics,Electronics Product 25,East,Debit Card,1,64950.68,10,6495.07,58455.61,Delivered
+ORD10195,2023-03-13,CUST4281,Books,Books Product 6,West,Credit Card,1,1068.59,20,213.72,854.87,Cancelled
+ORD10196,2023-03-13,CUST1420,Books,Books Product 6,East,UPI,3,943.04,10,282.91,2546.21,Cancelled
+ORD10197,2023-03-13,CUST2439,Home & Kitchen,Home & Kitchen Product 29,North,UPI,2,6965.78,0,0.0,13931.56,Delivered
+ORD10198,2023-03-14,CUST1307,Beauty & Personal Care,Beauty & Personal Care Product 43,West,UPI,1,2994.82,30,898.45,2096.37,Delivered
+ORD10199,2023-03-14,CUST4476,Beauty & Personal Care,Beauty & Personal Care Product 39,West,Credit Card,2,2442.87,30,1465.72,3420.02,Returned
+ORD10200,2023-03-14,CUST4889,Clothing,Clothing Product 37,North,Net Banking,3,615.06,10,184.52,1660.66,Delivered
+ORD10201,2023-03-15,CUST3350,Clothing,Clothing Product 9,East,Cash on Delivery,4,3491.27,10,1396.51,12568.57,Delivered
+ORD10202,2023-03-15,CUST3044,Home & Kitchen,Home & Kitchen Product 34,West,Net Banking,1,9918.63,0,0.0,9918.63,Returned
+ORD10203,2023-03-15,CUST2169,Electronics,Electronics Product 45,West,Debit Card,1,24633.25,10,2463.32,22169.93,Delivered
+ORD10204,2023-03-16,CUST1359,Electronics,Electronics Product 44,East,UPI,1,15179.63,0,0.0,15179.63,Delivered
+ORD10205,2023-03-16,CUST3915,Electronics,Electronics Product 46,South,UPI,1,46249.79,5,2312.49,43937.3,Returned
+ORD10206,2023-03-17,CUST4237,Beauty & Personal Care,Beauty & Personal Care Product 32,North,UPI,5,827.1,20,827.1,3308.4,Returned
+ORD10207,2023-03-17,CUST3506,Beauty & Personal Care,Beauty & Personal Care Product 6,North,UPI,1,1801.95,30,540.59,1261.36,Returned
+ORD10208,2023-03-17,CUST4372,Books,Books Product 37,North,Debit Card,2,1499.43,10,299.89,2698.97,Delivered
+ORD10209,2023-03-18,CUST1525,Home & Kitchen,Home & Kitchen Product 50,South,Debit Card,1,9813.91,15,1472.09,8341.82,Cancelled
+ORD10210,2023-03-18,CUST1626,Books,Books Product 20,South,Debit Card,3,803.51,20,482.11,1928.42,Delivered
+ORD10211,2023-03-18,CUST4665,Home & Kitchen,Home & Kitchen Product 19,North,UPI,1,14053.7,25,3513.43,10540.27,Delivered
+ORD10212,2023-03-19,CUST3516,Clothing,Clothing Product 35,North,Net Banking,2,3284.4,0,0.0,6568.8,Cancelled
+ORD10213,2023-03-19,CUST3951,Clothing,Clothing Product 39,East,Net Banking,2,3081.09,0,0.0,6162.18,Delivered
+ORD10214,2023-03-19,CUST2084,Electronics,Electronics Product 42,South,Net Banking,1,66892.72,0,0.0,66892.72,Delivered
+ORD10215,2023-03-20,CUST2186,Books,Books Product 42,East,Cash on Delivery,1,964.97,25,241.24,723.73,Delivered
+ORD10216,2023-03-20,CUST3820,Clothing,Clothing Product 4,South,Cash on Delivery,2,4081.84,5,408.18,7755.5,Delivered
+ORD10217,2023-03-21,CUST4528,Books,Books Product 46,East,UPI,1,777.44,15,116.62,660.82,Cancelled
+ORD10218,2023-03-21,CUST1990,Books,Books Product 30,North,UPI,1,282.2,15,42.33,239.87,Cancelled
+ORD10219,2023-03-21,CUST4539,Books,Books Product 40,West,Debit Card,1,446.33,5,22.32,424.01,Delivered
+ORD10220,2023-03-22,CUST4125,Clothing,Clothing Product 11,West,Net Banking,4,4123.16,20,3298.53,13194.11,Returned
+ORD10221,2023-03-22,CUST3070,Books,Books Product 30,South,Debit Card,1,797.76,0,0.0,797.76,Delivered
+ORD10222,2023-03-22,CUST2170,Beauty & Personal Care,Beauty & Personal Care Product 35,North,Credit Card,1,1187.46,10,118.75,1068.71,Delivered
+ORD10223,2023-03-23,CUST2498,Books,Books Product 3,West,Credit Card,1,286.64,10,28.66,257.98,Delivered
+ORD10224,2023-03-23,CUST3065,Beauty & Personal Care,Beauty & Personal Care Product 29,East,Net Banking,1,1772.65,5,88.63,1684.02,Delivered
+ORD10225,2023-03-23,CUST3284,Beauty & Personal Care,Beauty & Personal Care Product 24,South,Debit Card,5,531.79,10,265.89,2393.06,Cancelled
+ORD10226,2023-03-24,CUST3922,Beauty & Personal Care,Beauty & Personal Care Product 22,West,Net Banking,2,1625.05,0,0.0,3250.1,Returned
+ORD10227,2023-03-24,CUST2304,Books,Books Product 11,West,Net Banking,4,307.67,0,0.0,1230.68,Delivered
+ORD10228,2023-03-25,CUST3902,Home & Kitchen,Home & Kitchen Product 37,East,Cash on Delivery,2,9109.01,10,1821.8,16396.22,Delivered
+ORD10229,2023-03-25,CUST2260,Electronics,Electronics Product 47,North,Net Banking,2,32626.84,30,19576.1,45677.58,Delivered
+ORD10230,2023-03-25,CUST3365,Books,Books Product 15,North,Net Banking,2,471.01,30,282.61,659.41,Delivered
+ORD10231,2023-03-26,CUST1605,Books,Books Product 44,South,Credit Card,2,337.89,15,101.37,574.41,Delivered
+ORD10232,2023-03-26,CUST2715,Beauty & Personal Care,Beauty & Personal Care Product 10,West,Debit Card,1,2854.92,0,0.0,2854.92,Cancelled
+ORD10233,2023-03-26,CUST3890,Books,Books Product 9,South,Net Banking,2,802.05,10,160.41,1443.69,Delivered
+ORD10234,2023-03-27,CUST2882,Home & Kitchen,Home & Kitchen Product 35,East,Net Banking,1,14972.78,10,1497.28,13475.5,Returned
+ORD10235,2023-03-27,CUST3498,Home & Kitchen,Home & Kitchen Product 31,South,Debit Card,3,10300.09,15,4635.04,26265.23,Cancelled
+ORD10236,2023-03-27,CUST4158,Home & Kitchen,Home & Kitchen Product 19,South,Cash on Delivery,1,8592.26,30,2577.68,6014.58,Cancelled
+ORD10237,2023-03-28,CUST2178,Home & Kitchen,Home & Kitchen Product 8,West,Cash on Delivery,2,7457.15,25,3728.57,11185.73,Cancelled
+ORD10238,2023-03-28,CUST4912,Home & Kitchen,Home & Kitchen Product 46,North,UPI,3,14341.83,5,2151.27,40874.22,Cancelled
+ORD10239,2023-03-29,CUST2110,Books,Books Product 36,East,Debit Card,2,1018.02,5,101.8,1934.24,Delivered
+ORD10240,2023-03-29,CUST1924,Electronics,Electronics Product 41,South,Credit Card,2,51175.78,5,5117.58,97233.98,Delivered
+ORD10241,2023-03-29,CUST1021,Electronics,Electronics Product 36,South,Cash on Delivery,2,35997.6,0,0.0,71995.2,Returned
+ORD10242,2023-03-30,CUST2169,Books,Books Product 42,North,Credit Card,1,767.91,30,230.37,537.54,Cancelled
+ORD10243,2023-03-30,CUST4740,Beauty & Personal Care,Beauty & Personal Care Product 12,West,Debit Card,2,849.45,25,424.73,1274.17,Delivered
+ORD10244,2023-03-30,CUST4591,Electronics,Electronics Product 3,North,UPI,1,79787.89,10,7978.79,71809.1,Cancelled
+ORD10245,2023-03-31,CUST3626,Beauty & Personal Care,Beauty & Personal Care Product 35,West,Debit Card,4,1887.4,5,377.48,7172.12,Delivered
+ORD10246,2023-03-31,CUST3994,Beauty & Personal Care,Beauty & Personal Care Product 30,East,Debit Card,1,1509.93,0,0.0,1509.93,Returned
+ORD10247,2023-03-31,CUST1718,Electronics,Electronics Product 40,West,Cash on Delivery,3,60246.34,15,27110.85,153628.17,Returned
+ORD10248,2023-04-01,CUST2955,Beauty & Personal Care,Beauty & Personal Care Product 21,South,Credit Card,1,1117.52,0,0.0,1117.52,Returned
+ORD10249,2023-04-01,CUST2236,Home & Kitchen,Home & Kitchen Product 38,North,UPI,1,6061.83,5,303.09,5758.74,Cancelled
+ORD10250,2023-04-02,CUST1654,Home & Kitchen,Home & Kitchen Product 26,East,Credit Card,1,10545.14,0,0.0,10545.14,Cancelled
+ORD10251,2023-04-02,CUST1627,Home & Kitchen,Home & Kitchen Product 30,East,Cash on Delivery,1,5829.39,30,1748.82,4080.57,Delivered
+ORD10252,2023-04-02,CUST4120,Beauty & Personal Care,Beauty & Personal Care Product 16,North,Net Banking,3,2755.74,20,1653.44,6613.78,Returned
+ORD10253,2023-04-03,CUST1252,Books,Books Product 36,South,Net Banking,1,838.97,25,209.74,629.23,Delivered
+ORD10254,2023-04-03,CUST3786,Beauty & Personal Care,Beauty & Personal Care Product 14,West,Credit Card,1,618.74,10,61.87,556.87,Delivered
+ORD10255,2023-04-03,CUST2871,Beauty & Personal Care,Beauty & Personal Care Product 37,North,Net Banking,1,1446.8,0,0.0,1446.8,Delivered
+ORD10256,2023-04-04,CUST4344,Books,Books Product 1,South,Net Banking,1,1041.55,0,0.0,1041.55,Cancelled
+ORD10257,2023-04-04,CUST4828,Electronics,Electronics Product 5,West,Credit Card,1,8396.74,0,0.0,8396.74,Delivered
+ORD10258,2023-04-05,CUST2533,Home & Kitchen,Home & Kitchen Product 25,West,Cash on Delivery,3,6428.57,20,3857.14,15428.57,Delivered
+ORD10259,2023-04-05,CUST3676,Books,Books Product 23,North,Debit Card,5,211.43,25,264.29,792.86,Returned
+ORD10260,2023-04-05,CUST4097,Beauty & Personal Care,Beauty & Personal Care Product 2,East,Cash on Delivery,1,1299.96,30,389.99,909.97,Delivered
+ORD10261,2023-04-06,CUST2417,Beauty & Personal Care,Beauty & Personal Care Product 10,East,Debit Card,1,1386.98,5,69.35,1317.63,Delivered
+ORD10262,2023-04-06,CUST1985,Electronics,Electronics Product 14,North,Credit Card,2,7416.3,15,2224.89,12607.71,Delivered
+ORD10263,2023-04-06,CUST2002,Beauty & Personal Care,Beauty & Personal Care Product 48,North,Cash on Delivery,2,293.05,20,117.22,468.88,Delivered
+ORD10264,2023-04-07,CUST1573,Books,Books Product 33,East,Debit Card,1,427.31,25,106.83,320.48,Delivered
+ORD10265,2023-04-07,CUST1970,Beauty & Personal Care,Beauty & Personal Care Product 20,South,Net Banking,2,1092.25,15,327.68,1856.82,Cancelled
+ORD10266,2023-04-07,CUST4603,Clothing,Clothing Product 48,South,Cash on Delivery,1,2243.15,15,336.47,1906.68,Delivered
+ORD10267,2023-04-08,CUST4218,Beauty & Personal Care,Beauty & Personal Care Product 34,East,Cash on Delivery,5,1587.23,25,1984.04,5952.11,Delivered
+ORD10268,2023-04-08,CUST1987,Books,Books Product 15,East,Debit Card,1,308.05,20,61.61,246.44,Delivered
+ORD10269,2023-04-09,CUST3170,Books,Books Product 9,West,Debit Card,2,1380.55,30,828.33,1932.77,Delivered
+ORD10270,2023-04-09,CUST1378,Home & Kitchen,Home & Kitchen Product 35,South,Credit Card,2,3448.38,25,1724.19,5172.57,Cancelled
+ORD10271,2023-04-09,CUST1770,Home & Kitchen,Home & Kitchen Product 49,South,Cash on Delivery,2,5968.94,0,0.0,11937.88,Delivered
+ORD10272,2023-04-10,CUST1867,Clothing,Clothing Product 13,North,Cash on Delivery,1,4386.4,30,1315.92,3070.48,Delivered
+ORD10273,2023-04-10,CUST3261,Clothing,Clothing Product 21,East,Cash on Delivery,2,3569.14,10,713.83,6424.45,Returned
+ORD10274,2023-04-10,CUST4615,Books,Books Product 32,West,Credit Card,1,846.64,5,42.33,804.31,Delivered
+ORD10275,2023-04-11,CUST2695,Books,Books Product 3,South,Debit Card,1,1166.04,5,58.3,1107.74,Cancelled
+ORD10276,2023-04-11,CUST2209,Electronics,Electronics Product 10,South,UPI,4,24558.06,15,14734.84,83497.4,Delivered
+ORD10277,2023-04-11,CUST2054,Clothing,Clothing Product 49,West,Cash on Delivery,3,2084.63,10,625.39,5628.5,Cancelled
+ORD10278,2023-04-12,CUST3000,Books,Books Product 12,North,Net Banking,3,334.7,0,0.0,1004.1,Delivered
+ORD10279,2023-04-12,CUST4130,Electronics,Electronics Product 1,West,Debit Card,1,67930.14,20,13586.03,54344.11,Delivered
+ORD10280,2023-04-13,CUST2528,Clothing,Clothing Product 4,West,Cash on Delivery,1,618.52,5,30.93,587.59,Delivered
+ORD10281,2023-04-13,CUST3958,Electronics,Electronics Product 18,East,Credit Card,2,5495.93,0,0.0,10991.86,Delivered
+ORD10282,2023-04-13,CUST1438,Beauty & Personal Care,Beauty & Personal Care Product 7,South,Debit Card,2,2476.65,20,990.66,3962.64,Returned
+ORD10283,2023-04-14,CUST1323,Clothing,Clothing Product 24,West,Cash on Delivery,1,3212.59,10,321.26,2891.33,Delivered
+ORD10284,2023-04-14,CUST3677,Beauty & Personal Care,Beauty & Personal Care Product 42,North,Credit Card,2,880.23,5,88.02,1672.44,Delivered
+ORD10285,2023-04-14,CUST3878,Books,Books Product 11,North,Cash on Delivery,2,630.35,0,0.0,1260.7,Delivered
+ORD10286,2023-04-15,CUST4665,Books,Books Product 34,North,Debit Card,1,1002.52,30,300.76,701.76,Delivered
+ORD10287,2023-04-15,CUST1190,Clothing,Clothing Product 5,East,Net Banking,2,4535.88,15,1360.76,7711.0,Cancelled
+ORD10288,2023-04-15,CUST4938,Beauty & Personal Care,Beauty & Personal Care Product 14,South,Cash on Delivery,1,2042.36,25,510.59,1531.77,Delivered
+ORD10289,2023-04-16,CUST3773,Electronics,Electronics Product 35,East,Cash on Delivery,2,27445.77,15,8233.73,46657.81,Delivered
+ORD10290,2023-04-16,CUST1219,Clothing,Clothing Product 7,West,Debit Card,2,4015.13,0,0.0,8030.26,Cancelled
+ORD10291,2023-04-17,CUST4968,Electronics,Electronics Product 50,East,Credit Card,3,30544.46,30,27490.01,64143.37,Delivered
+ORD10292,2023-04-17,CUST4854,Home & Kitchen,Home & Kitchen Product 25,West,Debit Card,1,11861.45,5,593.07,11268.38,Delivered
+ORD10293,2023-04-17,CUST3920,Beauty & Personal Care,Beauty & Personal Care Product 5,North,UPI,1,2049.54,15,307.43,1742.11,Returned
+ORD10294,2023-04-18,CUST2297,Clothing,Clothing Product 24,North,Credit Card,3,2085.38,0,0.0,6256.14,Delivered
+ORD10295,2023-04-18,CUST1542,Electronics,Electronics Product 6,South,Cash on Delivery,1,75722.02,20,15144.4,60577.62,Delivered
+ORD10296,2023-04-18,CUST2449,Books,Books Product 36,North,Net Banking,2,879.34,0,0.0,1758.68,Delivered
+ORD10297,2023-04-19,CUST2588,Beauty & Personal Care,Beauty & Personal Care Product 50,North,Net Banking,3,2396.21,0,0.0,7188.63,Delivered
+ORD10298,2023-04-19,CUST2101,Clothing,Clothing Product 20,East,Cash on Delivery,1,2987.79,10,298.78,2689.01,Returned
+ORD10299,2023-04-19,CUST4205,Clothing,Clothing Product 5,East,UPI,1,596.42,10,59.64,536.78,Delivered
+ORD10300,2023-04-20,CUST1438,Clothing,Clothing Product 9,East,Credit Card,1,3687.95,15,553.19,3134.76,Delivered
+ORD10301,2023-04-20,CUST2803,Books,Books Product 22,West,Net Banking,2,564.44,20,225.78,903.1,Cancelled
+ORD10302,2023-04-21,CUST2286,Clothing,Clothing Product 12,West,UPI,2,1711.35,15,513.4,2909.3,Delivered
+ORD10303,2023-04-21,CUST2334,Home & Kitchen,Home & Kitchen Product 25,East,Cash on Delivery,2,11155.68,30,6693.41,15617.95,Returned
+ORD10304,2023-04-21,CUST1736,Home & Kitchen,Home & Kitchen Product 44,North,Cash on Delivery,2,2151.37,15,645.41,3657.33,Delivered
+ORD10305,2023-04-22,CUST3756,Clothing,Clothing Product 32,South,UPI,1,2360.18,15,354.03,2006.15,Delivered
+ORD10306,2023-04-22,CUST1302,Clothing,Clothing Product 29,West,Net Banking,1,1486.86,10,148.69,1338.17,Delivered
+ORD10307,2023-04-22,CUST3226,Books,Books Product 3,East,Net Banking,4,847.65,25,847.65,2542.95,Delivered
+ORD10308,2023-04-23,CUST1681,Beauty & Personal Care,Beauty & Personal Care Product 42,North,Net Banking,1,1986.54,20,397.31,1589.23,Cancelled
+ORD10309,2023-04-23,CUST1043,Books,Books Product 7,East,Debit Card,1,1453.5,20,290.7,1162.8,Delivered
+ORD10310,2023-04-23,CUST2825,Beauty & Personal Care,Beauty & Personal Care Product 24,West,Cash on Delivery,2,2290.94,15,687.28,3894.6,Returned
+ORD10311,2023-04-24,CUST1428,Beauty & Personal Care,Beauty & Personal Care Product 19,West,Credit Card,1,2132.91,30,639.87,1493.04,Delivered
+ORD10312,2023-04-24,CUST2865,Electronics,Electronics Product 14,West,UPI,2,67348.83,5,6734.88,127962.78,Cancelled
+ORD10313,2023-04-25,CUST2229,Books,Books Product 3,North,Credit Card,2,235.77,10,47.15,424.39,Delivered
+ORD10314,2023-04-25,CUST3113,Home & Kitchen,Home & Kitchen Product 12,South,UPI,2,9895.56,0,0.0,19791.12,Returned
+ORD10315,2023-04-25,CUST1763,Beauty & Personal Care,Beauty & Personal Care Product 41,West,Cash on Delivery,1,1393.26,20,278.65,1114.61,Returned
+ORD10316,2023-04-26,CUST2592,Electronics,Electronics Product 1,South,Debit Card,4,60304.13,10,24121.65,217094.87,Delivered
+ORD10317,2023-04-26,CUST4274,Home & Kitchen,Home & Kitchen Product 35,South,UPI,3,11408.72,0,0.0,34226.16,Delivered
+ORD10318,2023-04-26,CUST3161,Home & Kitchen,Home & Kitchen Product 41,East,Net Banking,1,3357.58,15,503.64,2853.94,Delivered
+ORD10319,2023-04-27,CUST3528,Books,Books Product 12,East,Net Banking,2,955.44,5,95.54,1815.34,Delivered
+ORD10320,2023-04-27,CUST1479,Beauty & Personal Care,Beauty & Personal Care Product 12,East,Debit Card,1,436.39,0,0.0,436.39,Cancelled
+ORD10321,2023-04-27,CUST1760,Beauty & Personal Care,Beauty & Personal Care Product 32,South,Net Banking,2,1287.09,15,386.13,2188.05,Delivered
+ORD10322,2023-04-28,CUST3537,Clothing,Clothing Product 4,East,Credit Card,1,2600.81,5,130.04,2470.77,Delivered
+ORD10323,2023-04-28,CUST3674,Books,Books Product 32,West,Cash on Delivery,3,290.29,30,261.26,609.61,Delivered
+ORD10324,2023-04-29,CUST1126,Books,Books Product 49,South,UPI,1,1093.91,0,0.0,1093.91,Delivered
+ORD10325,2023-04-29,CUST3316,Electronics,Electronics Product 48,West,Net Banking,2,25613.97,0,0.0,51227.94,Delivered
+ORD10326,2023-04-29,CUST3220,Beauty & Personal Care,Beauty & Personal Care Product 49,North,Cash on Delivery,1,516.1,20,103.22,412.88,Cancelled
+ORD10327,2023-04-30,CUST2219,Beauty & Personal Care,Beauty & Personal Care Product 3,West,UPI,1,811.14,20,162.23,648.91,Returned
+ORD10328,2023-04-30,CUST4176,Home & Kitchen,Home & Kitchen Product 16,South,Net Banking,1,13001.89,25,3250.47,9751.42,Delivered
+ORD10329,2023-04-30,CUST1570,Home & Kitchen,Home & Kitchen Product 14,South,Credit Card,2,12985.21,10,2597.04,23373.38,Delivered
+ORD10330,2023-05-01,CUST3883,Beauty & Personal Care,Beauty & Personal Care Product 19,East,Net Banking,1,1181.63,10,118.16,1063.47,Cancelled
+ORD10331,2023-05-01,CUST1555,Home & Kitchen,Home & Kitchen Product 49,West,Credit Card,2,14309.76,25,7154.88,21464.64,Delivered
+ORD10332,2023-05-01,CUST1599,Home & Kitchen,Home & Kitchen Product 46,East,Debit Card,1,13072.19,25,3268.05,9804.14,Returned
+ORD10333,2023-05-02,CUST2536,Books,Books Product 29,North,Credit Card,2,784.73,5,78.47,1490.99,Delivered
+ORD10334,2023-05-02,CUST2862,Books,Books Product 32,East,Net Banking,1,821.37,25,205.34,616.03,Cancelled
+ORD10335,2023-05-03,CUST3600,Electronics,Electronics Product 43,East,Credit Card,3,70168.08,0,0.0,210504.24,Delivered
+ORD10336,2023-05-03,CUST2099,Beauty & Personal Care,Beauty & Personal Care Product 21,East,UPI,5,1313.0,20,1313.0,5252.0,Delivered
+ORD10337,2023-05-03,CUST4662,Beauty & Personal Care,Beauty & Personal Care Product 44,North,Credit Card,2,1817.79,10,363.56,3272.02,Cancelled
+ORD10338,2023-05-04,CUST2807,Electronics,Electronics Product 30,North,Cash on Delivery,3,51963.46,0,0.0,155890.38,Returned
+ORD10339,2023-05-04,CUST1651,Clothing,Clothing Product 18,North,UPI,4,4979.76,25,4979.76,14939.28,Cancelled
+ORD10340,2023-05-04,CUST2623,Home & Kitchen,Home & Kitchen Product 41,East,Debit Card,2,1695.1,15,508.53,2881.67,Delivered
+ORD10341,2023-05-05,CUST1319,Books,Books Product 9,South,Net Banking,2,1017.33,0,0.0,2034.66,Delivered
+ORD10342,2023-05-05,CUST3842,Books,Books Product 9,West,Credit Card,2,112.01,20,44.8,179.22,Delivered
+ORD10343,2023-05-05,CUST2505,Clothing,Clothing Product 20,South,Cash on Delivery,2,2099.81,0,0.0,4199.62,Cancelled
+ORD10344,2023-05-06,CUST1034,Clothing,Clothing Product 40,South,Cash on Delivery,2,3315.05,0,0.0,6630.1,Delivered
+ORD10345,2023-05-06,CUST3523,Home & Kitchen,Home & Kitchen Product 44,West,Debit Card,2,10975.26,0,0.0,21950.52,Delivered
+ORD10346,2023-05-07,CUST2439,Electronics,Electronics Product 28,East,Debit Card,1,72244.47,0,0.0,72244.47,Delivered
+ORD10347,2023-05-07,CUST3953,Clothing,Clothing Product 39,East,Credit Card,1,1601.02,15,240.15,1360.87,Delivered
+ORD10348,2023-05-07,CUST2210,Home & Kitchen,Home & Kitchen Product 42,North,Debit Card,2,3478.96,0,0.0,6957.92,Delivered
+ORD10349,2023-05-08,CUST3163,Books,Books Product 1,East,UPI,1,639.63,15,95.94,543.69,Delivered
+ORD10350,2023-05-08,CUST3797,Clothing,Clothing Product 12,West,Credit Card,3,2117.53,10,635.26,5717.33,Delivered
+ORD10351,2023-05-08,CUST4885,Electronics,Electronics Product 26,East,Net Banking,1,49052.26,5,2452.61,46599.65,Delivered
+ORD10352,2023-05-09,CUST3523,Books,Books Product 10,East,Credit Card,1,692.43,15,103.86,588.57,Delivered
+ORD10353,2023-05-09,CUST3197,Home & Kitchen,Home & Kitchen Product 21,West,Net Banking,4,1645.81,30,1974.97,4608.27,Returned
+ORD10354,2023-05-09,CUST1237,Electronics,Electronics Product 16,North,Cash on Delivery,1,28262.71,30,8478.81,19783.9,Returned
+ORD10355,2023-05-10,CUST1489,Electronics,Electronics Product 1,South,Credit Card,2,39002.89,5,3900.29,74105.49,Returned
+ORD10356,2023-05-10,CUST1683,Clothing,Clothing Product 24,South,UPI,1,2632.64,10,263.26,2369.38,Cancelled
+ORD10357,2023-05-11,CUST3145,Electronics,Electronics Product 5,East,Net Banking,1,62857.27,20,12571.45,50285.82,Cancelled
+ORD10358,2023-05-11,CUST1683,Electronics,Electronics Product 24,South,UPI,2,42211.07,0,0.0,84422.14,Delivered
+ORD10359,2023-05-11,CUST1010,Electronics,Electronics Product 3,North,Debit Card,2,72070.13,0,0.0,144140.26,Delivered
+ORD10360,2023-05-12,CUST3264,Electronics,Electronics Product 46,West,Debit Card,1,40382.34,0,0.0,40382.34,Delivered
+ORD10361,2023-05-12,CUST3341,Home & Kitchen,Home & Kitchen Product 24,North,Net Banking,4,4099.82,5,819.96,15579.32,Delivered
+ORD10362,2023-05-12,CUST1282,Electronics,Electronics Product 30,East,UPI,3,18450.83,30,16605.75,38746.74,Delivered
+ORD10363,2023-05-13,CUST3309,Home & Kitchen,Home & Kitchen Product 20,South,Cash on Delivery,1,1752.59,10,175.26,1577.33,Cancelled
+ORD10364,2023-05-13,CUST4000,Home & Kitchen,Home & Kitchen Product 35,South,Debit Card,1,9079.52,20,1815.9,7263.62,Returned
+ORD10365,2023-05-13,CUST4895,Electronics,Electronics Product 22,North,Cash on Delivery,1,74929.81,10,7492.98,67436.83,Delivered
+ORD10366,2023-05-14,CUST4937,Home & Kitchen,Home & Kitchen Product 4,South,UPI,2,2007.26,5,200.73,3813.79,Delivered
+ORD10367,2023-05-14,CUST3870,Electronics,Electronics Product 24,West,Credit Card,1,8292.52,20,1658.5,6634.02,Delivered
+ORD10368,2023-05-15,CUST3424,Beauty & Personal Care,Beauty & Personal Care Product 37,North,Cash on Delivery,1,466.71,20,93.34,373.37,Delivered
+ORD10369,2023-05-15,CUST3870,Clothing,Clothing Product 48,East,UPI,1,1412.06,5,70.6,1341.46,Delivered
+ORD10370,2023-05-15,CUST1446,Books,Books Product 10,North,Debit Card,1,480.01,5,24.0,456.01,Delivered
+ORD10371,2023-05-16,CUST2851,Books,Books Product 20,West,UPI,1,751.94,10,75.19,676.75,Returned
+ORD10372,2023-05-16,CUST1165,Electronics,Electronics Product 14,East,Debit Card,3,11781.57,5,1767.24,33577.47,Delivered
+ORD10373,2023-05-16,CUST3773,Electronics,Electronics Product 20,East,Debit Card,5,58336.8,10,29168.4,262515.6,Delivered
+ORD10374,2023-05-17,CUST2023,Electronics,Electronics Product 7,West,Credit Card,3,76407.25,15,34383.26,194838.49,Delivered
+ORD10375,2023-05-17,CUST1535,Clothing,Clothing Product 13,West,UPI,1,869.95,20,173.99,695.96,Returned
+ORD10376,2023-05-18,CUST1264,Electronics,Electronics Product 13,West,Debit Card,1,48674.29,20,9734.86,38939.43,Delivered
+ORD10377,2023-05-18,CUST4859,Electronics,Electronics Product 30,North,Debit Card,3,72880.85,5,10932.13,207710.42,Delivered
+ORD10378,2023-05-18,CUST3798,Beauty & Personal Care,Beauty & Personal Care Product 28,South,UPI,2,1412.27,10,282.45,2542.09,Delivered
+ORD10379,2023-05-19,CUST1141,Clothing,Clothing Product 40,South,UPI,1,4568.94,10,456.89,4112.05,Returned
+ORD10380,2023-05-19,CUST2568,Books,Books Product 9,West,Debit Card,2,676.2,0,0.0,1352.4,Cancelled
+ORD10381,2023-05-19,CUST2566,Beauty & Personal Care,Beauty & Personal Care Product 46,East,Cash on Delivery,5,896.86,10,448.43,4035.87,Delivered
+ORD10382,2023-05-20,CUST2590,Beauty & Personal Care,Beauty & Personal Care Product 18,South,Credit Card,1,2387.8,15,358.17,2029.63,Cancelled
+ORD10383,2023-05-20,CUST1239,Home & Kitchen,Home & Kitchen Product 31,East,Net Banking,1,9158.19,20,1831.64,7326.55,Cancelled
+ORD10384,2023-05-20,CUST3185,Clothing,Clothing Product 48,North,Debit Card,1,4877.68,15,731.65,4146.03,Cancelled
+ORD10385,2023-05-21,CUST1721,Beauty & Personal Care,Beauty & Personal Care Product 16,East,UPI,3,2570.06,10,771.02,6939.16,Returned
+ORD10386,2023-05-21,CUST1582,Beauty & Personal Care,Beauty & Personal Care Product 37,South,Cash on Delivery,2,278.01,25,139.0,417.02,Delivered
+ORD10387,2023-05-22,CUST3464,Beauty & Personal Care,Beauty & Personal Care Product 15,North,Net Banking,1,1064.66,0,0.0,1064.66,Returned
+ORD10388,2023-05-22,CUST2395,Books,Books Product 46,South,UPI,4,99.96,5,19.99,379.85,Returned
+ORD10389,2023-05-22,CUST4467,Electronics,Electronics Product 34,East,Credit Card,2,6643.47,25,3321.74,9965.2,Delivered
+ORD10390,2023-05-23,CUST2236,Home & Kitchen,Home & Kitchen Product 21,South,Debit Card,2,10715.8,15,3214.74,18216.86,Cancelled
+ORD10391,2023-05-23,CUST3896,Books,Books Product 36,East,Debit Card,5,1208.37,15,906.28,5135.57,Returned
+ORD10392,2023-05-23,CUST1521,Beauty & Personal Care,Beauty & Personal Care Product 12,North,Net Banking,1,2480.29,20,496.06,1984.23,Cancelled
+ORD10393,2023-05-24,CUST3467,Books,Books Product 21,South,Net Banking,3,1290.91,15,580.91,3291.82,Returned
+ORD10394,2023-05-24,CUST2420,Electronics,Electronics Product 21,South,Credit Card,1,75251.58,20,15050.32,60201.26,Returned
+ORD10395,2023-05-24,CUST2435,Home & Kitchen,Home & Kitchen Product 17,North,Credit Card,1,6976.13,5,348.81,6627.32,Delivered
+ORD10396,2023-05-25,CUST3019,Electronics,Electronics Product 25,East,Net Banking,2,33945.28,30,20367.17,47523.39,Delivered
+ORD10397,2023-05-25,CUST1666,Books,Books Product 29,North,Credit Card,1,241.1,25,60.27,180.83,Returned
+ORD10398,2023-05-26,CUST1696,Home & Kitchen,Home & Kitchen Product 25,South,Credit Card,1,791.13,0,0.0,791.13,Cancelled
+ORD10399,2023-05-26,CUST4658,Beauty & Personal Care,Beauty & Personal Care Product 31,North,Cash on Delivery,5,2837.08,5,709.27,13476.13,Delivered
+ORD10400,2023-05-26,CUST1841,Clothing,Clothing Product 13,West,Net Banking,1,3154.0,0,0.0,3154.0,Cancelled
+ORD10401,2023-05-27,CUST2609,Beauty & Personal Care,Beauty & Personal Care Product 37,West,Debit Card,1,942.01,5,47.1,894.91,Delivered
+ORD10402,2023-05-27,CUST2967,Electronics,Electronics Product 13,North,Credit Card,1,32062.17,5,1603.11,30459.06,Delivered
+ORD10403,2023-05-27,CUST2263,Clothing,Clothing Product 26,West,Cash on Delivery,1,1102.08,0,0.0,1102.08,Delivered
+ORD10404,2023-05-28,CUST2513,Home & Kitchen,Home & Kitchen Product 12,West,Credit Card,2,1821.48,0,0.0,3642.96,Delivered
+ORD10405,2023-05-28,CUST1252,Home & Kitchen,Home & Kitchen Product 10,North,Credit Card,1,6876.24,20,1375.25,5500.99,Delivered
+ORD10406,2023-05-28,CUST3267,Home & Kitchen,Home & Kitchen Product 4,West,Net Banking,1,12218.61,20,2443.72,9774.89,Returned
+ORD10407,2023-05-29,CUST4611,Books,Books Product 16,West,UPI,2,1451.84,25,725.92,2177.76,Delivered
+ORD10408,2023-05-29,CUST4688,Electronics,Electronics Product 34,South,Credit Card,3,34610.33,0,0.0,103830.99,Delivered
+ORD10409,2023-05-30,CUST1516,Books,Books Product 3,West,Credit Card,5,341.2,30,511.8,1194.2,Returned
+ORD10410,2023-05-30,CUST2056,Books,Books Product 21,North,Credit Card,3,381.89,0,0.0,1145.67,Delivered
+ORD10411,2023-05-30,CUST2876,Books,Books Product 1,West,Credit Card,2,878.47,25,439.24,1317.7,Delivered
+ORD10412,2023-05-31,CUST4788,Books,Books Product 7,North,UPI,2,308.65,15,92.59,524.71,Delivered
+ORD10413,2023-05-31,CUST3343,Beauty & Personal Care,Beauty & Personal Care Product 39,West,Credit Card,4,2664.26,5,532.85,10124.19,Delivered
+ORD10414,2023-05-31,CUST1158,Clothing,Clothing Product 26,East,Debit Card,1,1593.72,15,239.06,1354.66,Delivered
+ORD10415,2023-06-01,CUST2383,Electronics,Electronics Product 20,East,UPI,4,60931.24,25,60931.24,182793.72,Delivered
+ORD10416,2023-06-01,CUST1550,Books,Books Product 20,West,UPI,2,1301.39,30,780.83,1821.95,Returned
+ORD10417,2023-06-01,CUST1865,Home & Kitchen,Home & Kitchen Product 27,West,Net Banking,2,11067.59,0,0.0,22135.18,Delivered
+ORD10418,2023-06-02,CUST3906,Home & Kitchen,Home & Kitchen Product 33,West,Debit Card,2,12404.75,0,0.0,24809.5,Cancelled
+ORD10419,2023-06-02,CUST4428,Beauty & Personal Care,Beauty & Personal Care Product 4,South,Credit Card,1,2662.01,0,0.0,2662.01,Returned
+ORD10420,2023-06-03,CUST4373,Books,Books Product 30,West,Credit Card,1,169.83,0,0.0,169.83,Cancelled
+ORD10421,2023-06-03,CUST3403,Electronics,Electronics Product 36,East,UPI,1,23145.36,10,2314.54,20830.82,Delivered
+ORD10422,2023-06-03,CUST2167,Clothing,Clothing Product 2,West,Credit Card,1,4236.81,20,847.36,3389.45,Delivered
+ORD10423,2023-06-04,CUST3651,Clothing,Clothing Product 15,South,UPI,3,4312.81,5,646.92,12291.51,Returned
+ORD10424,2023-06-04,CUST2941,Books,Books Product 9,South,Net Banking,3,818.11,30,736.3,1718.03,Delivered
+ORD10425,2023-06-04,CUST2735,Electronics,Electronics Product 25,East,Cash on Delivery,2,21782.75,25,10891.38,32674.12,Cancelled
+ORD10426,2023-06-05,CUST2626,Home & Kitchen,Home & Kitchen Product 38,North,Credit Card,1,3664.03,10,366.4,3297.63,Delivered
+ORD10427,2023-06-05,CUST3651,Beauty & Personal Care,Beauty & Personal Care Product 39,East,UPI,5,2998.4,20,2998.4,11993.6,Delivered
+ORD10428,2023-06-05,CUST4528,Electronics,Electronics Product 18,East,UPI,1,41130.38,5,2056.52,39073.86,Cancelled
+ORD10429,2023-06-06,CUST2655,Clothing,Clothing Product 43,East,Debit Card,3,1003.82,25,752.87,2258.59,Delivered
+ORD10430,2023-06-06,CUST2657,Electronics,Electronics Product 25,North,Net Banking,5,54155.04,5,13538.76,257236.44,Delivered
+ORD10431,2023-06-07,CUST3614,Beauty & Personal Care,Beauty & Personal Care Product 31,East,Net Banking,1,2484.66,20,496.93,1987.73,Delivered
+ORD10432,2023-06-07,CUST2203,Home & Kitchen,Home & Kitchen Product 7,West,Debit Card,3,12758.58,25,9568.93,28706.81,Returned
+ORD10433,2023-06-07,CUST3680,Home & Kitchen,Home & Kitchen Product 6,South,UPI,2,11015.21,25,5507.6,16522.82,Cancelled
+ORD10434,2023-06-08,CUST2522,Clothing,Clothing Product 17,East,Cash on Delivery,1,3797.53,20,759.51,3038.02,Cancelled
+ORD10435,2023-06-08,CUST1291,Electronics,Electronics Product 31,South,Net Banking,3,40290.24,15,18130.61,102740.11,Delivered
+ORD10436,2023-06-08,CUST4566,Electronics,Electronics Product 10,South,Debit Card,1,70062.33,5,3503.12,66559.21,Delivered
+ORD10437,2023-06-09,CUST1586,Home & Kitchen,Home & Kitchen Product 21,South,Credit Card,2,6433.28,25,3216.64,9649.92,Delivered
+ORD10438,2023-06-09,CUST1019,Books,Books Product 29,East,Debit Card,5,565.01,5,141.25,2683.8,Delivered
+ORD10439,2023-06-09,CUST1530,Clothing,Clothing Product 40,West,Cash on Delivery,1,3008.09,20,601.62,2406.47,Delivered
+ORD10440,2023-06-10,CUST1816,Books,Books Product 47,East,Credit Card,1,700.06,0,0.0,700.06,Delivered
+ORD10441,2023-06-10,CUST3566,Home & Kitchen,Home & Kitchen Product 47,South,Debit Card,2,11474.29,0,0.0,22948.58,Delivered
+ORD10442,2023-06-11,CUST1684,Home & Kitchen,Home & Kitchen Product 5,North,UPI,1,5025.34,10,502.53,4522.81,Cancelled
+ORD10443,2023-06-11,CUST4637,Home & Kitchen,Home & Kitchen Product 44,South,UPI,2,7110.93,10,1422.19,12799.67,Delivered
+ORD10444,2023-06-11,CUST1078,Books,Books Product 15,South,Debit Card,1,602.31,25,150.58,451.73,Delivered
+ORD10445,2023-06-12,CUST3912,Clothing,Clothing Product 42,North,Cash on Delivery,2,3749.89,0,0.0,7499.78,Cancelled
+ORD10446,2023-06-12,CUST3711,Home & Kitchen,Home & Kitchen Product 7,North,Credit Card,2,11683.12,15,3504.94,19861.3,Delivered
+ORD10447,2023-06-12,CUST3874,Electronics,Electronics Product 10,South,Credit Card,1,36258.17,10,3625.82,32632.35,Delivered
+ORD10448,2023-06-13,CUST3480,Home & Kitchen,Home & Kitchen Product 45,South,Cash on Delivery,1,6602.64,10,660.26,5942.38,Delivered
+ORD10449,2023-06-13,CUST3038,Electronics,Electronics Product 13,South,UPI,2,43368.86,5,4336.89,82400.83,Delivered
+ORD10450,2023-06-13,CUST1161,Beauty & Personal Care,Beauty & Personal Care Product 36,West,Debit Card,1,2924.71,10,292.47,2632.24,Returned
+ORD10451,2023-06-14,CUST4421,Books,Books Product 37,West,Debit Card,1,562.18,15,84.33,477.85,Delivered
+ORD10452,2023-06-14,CUST3639,Electronics,Electronics Product 15,West,UPI,1,63464.47,20,12692.89,50771.58,Cancelled
+ORD10453,2023-06-15,CUST4490,Home & Kitchen,Home & Kitchen Product 19,East,UPI,1,7232.02,0,0.0,7232.02,Delivered
+ORD10454,2023-06-15,CUST1039,Books,Books Product 9,South,UPI,1,1133.69,20,226.74,906.95,Delivered
+ORD10455,2023-06-15,CUST2526,Home & Kitchen,Home & Kitchen Product 22,South,Credit Card,5,13470.65,5,3367.66,63985.59,Delivered
+ORD10456,2023-06-16,CUST4276,Books,Books Product 27,South,Credit Card,1,659.75,20,131.95,527.8,Delivered
+ORD10457,2023-06-16,CUST1424,Clothing,Clothing Product 27,West,Net Banking,1,3571.69,25,892.92,2678.77,Returned
+ORD10458,2023-06-16,CUST4533,Books,Books Product 44,South,Cash on Delivery,1,352.95,10,35.3,317.65,Delivered
+ORD10459,2023-06-17,CUST3682,Books,Books Product 21,North,Net Banking,1,257.23,0,0.0,257.23,Cancelled
+ORD10460,2023-06-17,CUST3126,Beauty & Personal Care,Beauty & Personal Care Product 34,North,Cash on Delivery,1,2226.29,30,667.89,1558.4,Cancelled
+ORD10461,2023-06-17,CUST4436,Clothing,Clothing Product 36,North,Credit Card,2,2564.55,15,769.37,4359.73,Returned
+ORD10462,2023-06-18,CUST1306,Clothing,Clothing Product 49,West,UPI,1,2675.67,10,267.57,2408.1,Returned
+ORD10463,2023-06-18,CUST3635,Clothing,Clothing Product 25,West,Debit Card,1,1854.54,10,185.45,1669.09,Delivered
+ORD10464,2023-06-19,CUST2831,Electronics,Electronics Product 21,North,Cash on Delivery,3,39432.09,10,11829.63,106466.64,Delivered
+ORD10465,2023-06-19,CUST4382,Electronics,Electronics Product 6,East,Net Banking,1,12698.25,15,1904.74,10793.51,Delivered
+ORD10466,2023-06-19,CUST4380,Beauty & Personal Care,Beauty & Personal Care Product 4,South,Cash on Delivery,2,778.39,30,467.03,1089.75,Cancelled
+ORD10467,2023-06-20,CUST3932,Home & Kitchen,Home & Kitchen Product 29,North,Credit Card,2,8622.19,10,1724.44,15519.94,Cancelled
+ORD10468,2023-06-20,CUST3243,Clothing,Clothing Product 34,East,Credit Card,1,309.33,15,46.4,262.93,Cancelled
+ORD10469,2023-06-20,CUST1438,Electronics,Electronics Product 17,South,Debit Card,1,72265.78,20,14453.16,57812.62,Delivered
+ORD10470,2023-06-21,CUST3935,Electronics,Electronics Product 22,North,Cash on Delivery,1,74766.22,10,7476.62,67289.6,Returned
+ORD10471,2023-06-21,CUST2873,Electronics,Electronics Product 43,South,Cash on Delivery,3,74496.99,15,33523.65,189967.32,Delivered
+ORD10472,2023-06-21,CUST2978,Electronics,Electronics Product 33,South,Net Banking,1,44777.33,25,11194.33,33583.0,Delivered
+ORD10473,2023-06-22,CUST3482,Clothing,Clothing Product 21,West,Cash on Delivery,1,3733.06,10,373.31,3359.75,Delivered
+ORD10474,2023-06-22,CUST4975,Beauty & Personal Care,Beauty & Personal Care Product 19,West,Debit Card,3,2764.46,5,414.67,7878.71,Cancelled
+ORD10475,2023-06-23,CUST4453,Clothing,Clothing Product 45,East,Net Banking,2,2239.32,20,895.73,3582.91,Cancelled
+ORD10476,2023-06-23,CUST4773,Clothing,Clothing Product 44,South,Debit Card,2,1243.38,5,124.34,2362.42,Cancelled
+ORD10477,2023-06-23,CUST3303,Beauty & Personal Care,Beauty & Personal Care Product 31,West,Net Banking,2,1718.52,20,687.41,2749.63,Cancelled
+ORD10478,2023-06-24,CUST1103,Home & Kitchen,Home & Kitchen Product 25,South,Credit Card,1,13223.42,0,0.0,13223.42,Delivered
+ORD10479,2023-06-24,CUST3799,Electronics,Electronics Product 17,South,Credit Card,3,19992.68,0,0.0,59978.04,Cancelled
+ORD10480,2023-06-24,CUST1419,Home & Kitchen,Home & Kitchen Product 40,South,Net Banking,2,3458.01,10,691.6,6224.42,Delivered
+ORD10481,2023-06-25,CUST3838,Books,Books Product 43,North,Cash on Delivery,3,431.87,20,259.12,1036.49,Cancelled
+ORD10482,2023-06-25,CUST1220,Books,Books Product 1,East,Debit Card,3,682.61,15,307.17,1740.66,Delivered
+ORD10483,2023-06-25,CUST4733,Beauty & Personal Care,Beauty & Personal Care Product 41,East,Net Banking,3,2632.65,10,789.79,7108.16,Returned
+ORD10484,2023-06-26,CUST2204,Beauty & Personal Care,Beauty & Personal Care Product 29,South,Credit Card,1,2267.4,20,453.48,1813.92,Returned
+ORD10485,2023-06-26,CUST2755,Clothing,Clothing Product 18,East,Debit Card,2,4823.6,0,0.0,9647.2,Delivered
+ORD10486,2023-06-27,CUST1163,Clothing,Clothing Product 10,East,Net Banking,1,3044.32,5,152.22,2892.1,Returned
+ORD10487,2023-06-27,CUST3009,Electronics,Electronics Product 37,East,Credit Card,2,63024.57,20,25209.83,100839.31,Cancelled
+ORD10488,2023-06-27,CUST1652,Home & Kitchen,Home & Kitchen Product 27,West,Credit Card,5,8118.23,10,4059.11,36532.04,Delivered
+ORD10489,2023-06-28,CUST2202,Home & Kitchen,Home & Kitchen Product 14,West,Net Banking,1,3707.37,5,185.37,3522.0,Cancelled
+ORD10490,2023-06-28,CUST4762,Electronics,Electronics Product 40,South,Credit Card,1,13604.15,5,680.21,12923.94,Delivered
+ORD10491,2023-06-28,CUST3212,Home & Kitchen,Home & Kitchen Product 47,East,Credit Card,3,6029.9,0,0.0,18089.7,Cancelled
+ORD10492,2023-06-29,CUST2993,Beauty & Personal Care,Beauty & Personal Care Product 3,East,Debit Card,1,2501.73,20,500.35,2001.38,Delivered
+ORD10493,2023-06-29,CUST3184,Home & Kitchen,Home & Kitchen Product 1,North,Debit Card,4,7951.47,0,0.0,31805.88,Delivered
+ORD10494,2023-06-29,CUST4394,Clothing,Clothing Product 45,West,Credit Card,1,4365.13,0,0.0,4365.13,Delivered
+ORD10495,2023-06-30,CUST1222,Clothing,Clothing Product 12,East,Net Banking,2,410.66,0,0.0,821.32,Delivered
+ORD10496,2023-06-30,CUST2847,Electronics,Electronics Product 41,West,Cash on Delivery,1,48122.17,5,2406.11,45716.06,Delivered
+ORD10497,2023-07-01,CUST1259,Home & Kitchen,Home & Kitchen Product 49,North,Credit Card,2,744.92,10,148.98,1340.86,Delivered
+ORD10498,2023-07-01,CUST3484,Home & Kitchen,Home & Kitchen Product 6,East,Cash on Delivery,1,13956.69,20,2791.34,11165.35,Cancelled
+ORD10499,2023-07-01,CUST1900,Books,Books Product 9,West,Net Banking,2,652.55,10,130.51,1174.59,Delivered
+ORD10500,2023-07-02,CUST4921,Home & Kitchen,Home & Kitchen Product 1,South,Credit Card,1,14421.95,15,2163.29,12258.66,Cancelled
+ORD10501,2023-07-02,CUST2248,Electronics,Electronics Product 14,East,Debit Card,2,5377.24,10,1075.45,9679.03,Delivered
+ORD10502,2023-07-02,CUST1904,Books,Books Product 40,East,Debit Card,3,1367.78,0,0.0,4103.34,Returned
+ORD10503,2023-07-03,CUST2889,Electronics,Electronics Product 42,North,UPI,3,18601.85,25,13951.39,41854.16,Delivered
+ORD10504,2023-07-03,CUST2462,Electronics,Electronics Product 9,South,Credit Card,1,23801.57,15,3570.24,20231.33,Cancelled
+ORD10505,2023-07-04,CUST2344,Home & Kitchen,Home & Kitchen Product 40,East,Net Banking,4,9482.98,5,1896.6,36035.32,Delivered
+ORD10506,2023-07-04,CUST1690,Clothing,Clothing Product 1,East,Debit Card,1,2957.66,5,147.88,2809.78,Delivered
+ORD10507,2023-07-04,CUST1550,Clothing,Clothing Product 44,East,Cash on Delivery,2,3647.05,5,364.7,6929.4,Cancelled
+ORD10508,2023-07-05,CUST1719,Books,Books Product 42,North,UPI,3,722.95,10,216.89,1951.96,Delivered
+ORD10509,2023-07-05,CUST3979,Clothing,Clothing Product 5,North,Net Banking,1,4488.99,20,897.8,3591.19,Delivered
+ORD10510,2023-07-05,CUST4712,Electronics,Electronics Product 3,East,Net Banking,2,65948.18,20,26379.27,105517.09,Returned
+ORD10511,2023-07-06,CUST4651,Beauty & Personal Care,Beauty & Personal Care Product 50,East,Debit Card,3,1521.36,10,456.41,4107.67,Returned
+ORD10512,2023-07-06,CUST3714,Books,Books Product 16,South,Net Banking,1,801.07,10,80.11,720.96,Delivered
+ORD10513,2023-07-06,CUST4014,Clothing,Clothing Product 47,West,UPI,1,2396.68,25,599.17,1797.51,Returned
+ORD10514,2023-07-07,CUST1958,Electronics,Electronics Product 3,South,Net Banking,1,21411.43,0,0.0,21411.43,Cancelled
+ORD10515,2023-07-07,CUST3656,Home & Kitchen,Home & Kitchen Product 21,North,Net Banking,4,6127.35,25,6127.35,18382.05,Delivered
+ORD10516,2023-07-08,CUST2542,Home & Kitchen,Home & Kitchen Product 42,West,UPI,1,12605.65,10,1260.57,11345.08,Returned
+ORD10517,2023-07-08,CUST4984,Beauty & Personal Care,Beauty & Personal Care Product 15,West,UPI,3,2029.0,10,608.7,5478.3,Delivered
+ORD10518,2023-07-08,CUST4612,Home & Kitchen,Home & Kitchen Product 9,West,Debit Card,1,7559.49,15,1133.92,6425.57,Delivered
+ORD10519,2023-07-09,CUST1644,Clothing,Clothing Product 24,North,Debit Card,2,661.39,5,66.14,1256.64,Returned
+ORD10520,2023-07-09,CUST2962,Books,Books Product 14,South,Cash on Delivery,2,1235.45,10,247.09,2223.81,Delivered
+ORD10521,2023-07-09,CUST3578,Electronics,Electronics Product 33,North,Net Banking,1,23275.27,15,3491.29,19783.98,Returned
+ORD10522,2023-07-10,CUST3454,Clothing,Clothing Product 37,North,UPI,1,561.84,0,0.0,561.84,Delivered
+ORD10523,2023-07-10,CUST1698,Electronics,Electronics Product 15,West,Net Banking,2,21244.51,10,4248.9,38240.12,Delivered
+ORD10524,2023-07-10,CUST2083,Clothing,Clothing Product 11,East,Cash on Delivery,3,4034.49,0,0.0,12103.47,Delivered
+ORD10525,2023-07-11,CUST1067,Beauty & Personal Care,Beauty & Personal Care Product 13,West,Debit Card,1,1853.26,10,185.33,1667.93,Delivered
+ORD10526,2023-07-11,CUST4595,Beauty & Personal Care,Beauty & Personal Care Product 35,North,Credit Card,1,468.73,15,70.31,398.42,Delivered
+ORD10527,2023-07-12,CUST4673,Books,Books Product 50,West,Net Banking,4,1022.81,10,409.12,3682.12,Delivered
+ORD10528,2023-07-12,CUST4843,Books,Books Product 31,West,UPI,1,617.9,10,61.79,556.11,Returned
+ORD10529,2023-07-12,CUST1400,Beauty & Personal Care,Beauty & Personal Care Product 28,South,UPI,4,2452.74,20,1962.19,7848.77,Delivered
+ORD10530,2023-07-13,CUST4591,Books,Books Product 35,West,UPI,4,1171.97,0,0.0,4687.88,Delivered
+ORD10531,2023-07-13,CUST1482,Clothing,Clothing Product 34,North,Cash on Delivery,2,324.71,0,0.0,649.42,Delivered
+ORD10532,2023-07-13,CUST2745,Clothing,Clothing Product 42,East,UPI,1,3532.19,10,353.22,3178.97,Returned
+ORD10533,2023-07-14,CUST4092,Beauty & Personal Care,Beauty & Personal Care Product 14,West,Net Banking,1,1385.4,5,69.27,1316.13,Delivered
+ORD10534,2023-07-14,CUST2256,Beauty & Personal Care,Beauty & Personal Care Product 37,East,Cash on Delivery,1,1550.39,15,232.56,1317.83,Cancelled
+ORD10535,2023-07-14,CUST4207,Clothing,Clothing Product 45,South,Credit Card,2,4318.35,20,1727.34,6909.36,Delivered
+ORD10536,2023-07-15,CUST3855,Clothing,Clothing Product 44,North,Debit Card,3,2688.72,20,1613.23,6452.93,Delivered
+ORD10537,2023-07-15,CUST2931,Books,Books Product 39,West,Credit Card,1,1450.36,0,0.0,1450.36,Returned
+ORD10538,2023-07-16,CUST4812,Electronics,Electronics Product 26,East,Net Banking,1,24731.9,15,3709.78,21022.12,Delivered
+ORD10539,2023-07-16,CUST1043,Electronics,Electronics Product 13,East,Debit Card,3,75928.69,15,34167.91,193618.16,Delivered
+ORD10540,2023-07-16,CUST1694,Electronics,Electronics Product 44,North,UPI,2,63796.96,15,19139.09,108454.83,Delivered
+ORD10541,2023-07-17,CUST4193,Clothing,Clothing Product 26,East,Cash on Delivery,5,3378.24,0,0.0,16891.2,Cancelled
+ORD10542,2023-07-17,CUST4764,Books,Books Product 6,East,Net Banking,2,920.1,20,368.04,1472.16,Delivered
+ORD10543,2023-07-17,CUST4944,Beauty & Personal Care,Beauty & Personal Care Product 13,West,Cash on Delivery,5,1174.01,5,293.5,5576.55,Delivered
+ORD10544,2023-07-18,CUST1296,Beauty & Personal Care,Beauty & Personal Care Product 33,East,UPI,1,212.03,10,21.2,190.83,Delivered
+ORD10545,2023-07-18,CUST2024,Electronics,Electronics Product 45,West,Cash on Delivery,5,65220.67,25,81525.84,244577.51,Delivered
+ORD10546,2023-07-18,CUST3791,Beauty & Personal Care,Beauty & Personal Care Product 30,North,Cash on Delivery,1,1553.65,5,77.68,1475.97,Delivered
+ORD10547,2023-07-19,CUST3772,Electronics,Electronics Product 45,South,UPI,1,24336.48,20,4867.3,19469.18,Returned
+ORD10548,2023-07-19,CUST2016,Books,Books Product 19,North,Cash on Delivery,2,1437.58,0,0.0,2875.16,Cancelled
+ORD10549,2023-07-20,CUST1895,Home & Kitchen,Home & Kitchen Product 37,East,Debit Card,4,1602.42,10,640.97,5768.71,Cancelled
+ORD10550,2023-07-20,CUST1846,Clothing,Clothing Product 15,South,Debit Card,1,2644.8,20,528.96,2115.84,Cancelled
+ORD10551,2023-07-20,CUST3768,Beauty & Personal Care,Beauty & Personal Care Product 43,West,Net Banking,3,1196.23,0,0.0,3588.69,Delivered
+ORD10552,2023-07-21,CUST2520,Electronics,Electronics Product 40,East,Cash on Delivery,2,62318.32,0,0.0,124636.64,Delivered
+ORD10553,2023-07-21,CUST2147,Beauty & Personal Care,Beauty & Personal Care Product 26,South,Net Banking,1,2632.42,30,789.73,1842.69,Delivered
+ORD10554,2023-07-21,CUST1133,Clothing,Clothing Product 33,East,Cash on Delivery,3,553.55,10,166.06,1494.59,Delivered
+ORD10555,2023-07-22,CUST3823,Clothing,Clothing Product 1,North,Debit Card,1,2448.28,10,244.83,2203.45,Cancelled
+ORD10556,2023-07-22,CUST1766,Books,Books Product 36,East,Debit Card,1,912.99,15,136.95,776.04,Cancelled
+ORD10557,2023-07-22,CUST2736,Home & Kitchen,Home & Kitchen Product 14,West,UPI,2,7334.51,10,1466.9,13202.12,Delivered
+ORD10558,2023-07-23,CUST3358,Home & Kitchen,Home & Kitchen Product 44,South,Credit Card,1,12887.73,0,0.0,12887.73,Returned
+ORD10559,2023-07-23,CUST1597,Home & Kitchen,Home & Kitchen Product 48,South,Cash on Delivery,2,12159.27,25,6079.64,18238.9,Returned
+ORD10560,2023-07-24,CUST3187,Electronics,Electronics Product 47,East,Cash on Delivery,1,18245.55,30,5473.66,12771.89,Delivered
+ORD10561,2023-07-24,CUST3828,Home & Kitchen,Home & Kitchen Product 11,North,Debit Card,3,4139.12,0,0.0,12417.36,Delivered
+ORD10562,2023-07-24,CUST2064,Home & Kitchen,Home & Kitchen Product 24,East,Net Banking,2,7409.82,10,1481.96,13337.68,Cancelled
+ORD10563,2023-07-25,CUST2438,Beauty & Personal Care,Beauty & Personal Care Product 44,South,Net Banking,1,2809.1,0,0.0,2809.1,Delivered
+ORD10564,2023-07-25,CUST2454,Beauty & Personal Care,Beauty & Personal Care Product 21,West,Cash on Delivery,2,2019.27,30,1211.56,2826.98,Cancelled
+ORD10565,2023-07-25,CUST4556,Electronics,Electronics Product 11,East,Cash on Delivery,1,33580.32,15,5037.05,28543.27,Returned
+ORD10566,2023-07-26,CUST2407,Beauty & Personal Care,Beauty & Personal Care Product 15,East,UPI,3,1800.16,0,0.0,5400.48,Returned
+ORD10567,2023-07-26,CUST4198,Home & Kitchen,Home & Kitchen Product 24,West,Cash on Delivery,2,10801.29,10,2160.26,19442.32,Delivered
+ORD10568,2023-07-26,CUST4852,Clothing,Clothing Product 48,North,Debit Card,1,1163.45,20,232.69,930.76,Cancelled
+ORD10569,2023-07-27,CUST3246,Clothing,Clothing Product 4,North,Cash on Delivery,1,2165.51,25,541.38,1624.13,Delivered
+ORD10570,2023-07-27,CUST1345,Beauty & Personal Care,Beauty & Personal Care Product 42,West,UPI,1,2341.75,5,117.09,2224.66,Returned
+ORD10571,2023-07-28,CUST3157,Clothing,Clothing Product 11,North,Credit Card,1,1462.01,15,219.3,1242.71,Returned
+ORD10572,2023-07-28,CUST4829,Home & Kitchen,Home & Kitchen Product 18,West,Debit Card,1,12975.35,10,1297.54,11677.81,Delivered
+ORD10573,2023-07-28,CUST2781,Beauty & Personal Care,Beauty & Personal Care Product 34,East,UPI,2,694.88,15,208.46,1181.3,Delivered
+ORD10574,2023-07-29,CUST2688,Books,Books Product 17,South,UPI,3,855.08,10,256.52,2308.72,Cancelled
+ORD10575,2023-07-29,CUST2174,Electronics,Electronics Product 31,North,Cash on Delivery,3,5006.93,20,3004.16,12016.63,Cancelled
+ORD10576,2023-07-29,CUST1947,Books,Books Product 1,East,Debit Card,3,518.75,20,311.25,1245.0,Delivered
+ORD10577,2023-07-30,CUST4393,Books,Books Product 25,South,UPI,1,1334.91,5,66.75,1268.16,Delivered
+ORD10578,2023-07-30,CUST4307,Electronics,Electronics Product 45,East,UPI,1,36667.95,20,7333.59,29334.36,Delivered
+ORD10579,2023-07-30,CUST1559,Beauty & Personal Care,Beauty & Personal Care Product 19,North,Cash on Delivery,1,2464.47,25,616.12,1848.35,Returned
+ORD10580,2023-07-31,CUST1079,Beauty & Personal Care,Beauty & Personal Care Product 10,North,Net Banking,2,1467.2,10,293.44,2640.96,Cancelled
+ORD10581,2023-07-31,CUST3978,Electronics,Electronics Product 1,South,Credit Card,1,18945.32,5,947.27,17998.05,Delivered
+ORD10582,2023-08-01,CUST2521,Clothing,Clothing Product 30,North,UPI,1,368.22,10,36.82,331.4,Delivered
+ORD10583,2023-08-01,CUST1292,Electronics,Electronics Product 35,West,Debit Card,5,68265.97,0,0.0,341329.85,Delivered
+ORD10584,2023-08-01,CUST1499,Clothing,Clothing Product 50,South,Cash on Delivery,1,4509.68,10,450.97,4058.71,Delivered
+ORD10585,2023-08-02,CUST3134,Books,Books Product 43,South,Cash on Delivery,5,445.27,0,0.0,2226.35,Delivered
+ORD10586,2023-08-02,CUST4050,Books,Books Product 36,North,UPI,1,1053.7,5,52.69,1001.01,Delivered
+ORD10587,2023-08-02,CUST4986,Books,Books Product 8,South,Cash on Delivery,1,993.57,25,248.39,745.18,Returned
+ORD10588,2023-08-03,CUST4232,Home & Kitchen,Home & Kitchen Product 16,North,Credit Card,3,718.48,15,323.32,1832.12,Delivered
+ORD10589,2023-08-03,CUST4157,Beauty & Personal Care,Beauty & Personal Care Product 6,South,Debit Card,1,2393.51,15,359.03,2034.48,Cancelled
+ORD10590,2023-08-03,CUST1244,Books,Books Product 23,South,Net Banking,2,227.05,25,113.53,340.57,Delivered
+ORD10591,2023-08-04,CUST4299,Electronics,Electronics Product 29,South,Credit Card,1,14437.06,30,4331.12,10105.94,Cancelled
+ORD10592,2023-08-04,CUST3894,Books,Books Product 29,East,Net Banking,1,600.79,25,150.2,450.59,Delivered
+ORD10593,2023-08-05,CUST2127,Books,Books Product 39,South,Credit Card,1,364.88,5,18.24,346.64,Delivered
+ORD10594,2023-08-05,CUST2859,Beauty & Personal Care,Beauty & Personal Care Product 1,West,Debit Card,1,633.23,5,31.66,601.57,Cancelled
+ORD10595,2023-08-05,CUST3953,Electronics,Electronics Product 5,West,Debit Card,1,51480.1,15,7722.02,43758.08,Cancelled
+ORD10596,2023-08-06,CUST2321,Beauty & Personal Care,Beauty & Personal Care Product 27,East,Credit Card,3,2112.71,0,0.0,6338.13,Cancelled
+ORD10597,2023-08-06,CUST1731,Electronics,Electronics Product 3,South,Credit Card,1,44240.04,20,8848.01,35392.03,Returned
+ORD10598,2023-08-06,CUST3694,Books,Books Product 32,East,Credit Card,1,367.45,15,55.12,312.33,Delivered
+ORD10599,2023-08-07,CUST3685,Home & Kitchen,Home & Kitchen Product 32,North,Cash on Delivery,2,3700.48,0,0.0,7400.96,Returned
+ORD10600,2023-08-07,CUST4253,Electronics,Electronics Product 46,North,Net Banking,2,32069.45,25,16034.73,48104.17,Cancelled
+ORD10601,2023-08-07,CUST4869,Home & Kitchen,Home & Kitchen Product 14,North,Credit Card,2,8170.8,20,3268.32,13073.28,Delivered
+ORD10602,2023-08-08,CUST3334,Clothing,Clothing Product 41,South,Net Banking,1,2798.34,10,279.83,2518.51,Returned
+ORD10603,2023-08-08,CUST3762,Beauty & Personal Care,Beauty & Personal Care Product 30,West,Credit Card,1,1361.93,15,204.29,1157.64,Cancelled
+ORD10604,2023-08-09,CUST3186,Clothing,Clothing Product 39,West,UPI,2,4024.36,10,804.87,7243.85,Returned
+ORD10605,2023-08-09,CUST4130,Home & Kitchen,Home & Kitchen Product 41,West,UPI,5,8476.18,20,8476.18,33904.72,Delivered
+ORD10606,2023-08-09,CUST4793,Beauty & Personal Care,Beauty & Personal Care Product 48,East,UPI,2,873.26,10,174.65,1571.87,Delivered
+ORD10607,2023-08-10,CUST3440,Books,Books Product 2,South,UPI,1,725.95,20,145.19,580.76,Cancelled
+ORD10608,2023-08-10,CUST4160,Electronics,Electronics Product 45,East,Net Banking,1,27525.05,25,6881.26,20643.79,Delivered
+ORD10609,2023-08-10,CUST2885,Beauty & Personal Care,Beauty & Personal Care Product 23,South,Debit Card,4,1757.26,0,0.0,7029.04,Delivered
+ORD10610,2023-08-11,CUST1376,Home & Kitchen,Home & Kitchen Product 37,West,Net Banking,2,5822.7,5,582.27,11063.13,Cancelled
+ORD10611,2023-08-11,CUST2999,Clothing,Clothing Product 45,North,Net Banking,2,3750.78,20,1500.31,6001.25,Returned
+ORD10612,2023-08-11,CUST4775,Home & Kitchen,Home & Kitchen Product 50,East,UPI,3,1041.89,10,312.57,2813.1,Delivered
+ORD10613,2023-08-12,CUST4062,Books,Books Product 42,North,Cash on Delivery,3,682.55,25,511.91,1535.74,Returned
+ORD10614,2023-08-12,CUST2338,Electronics,Electronics Product 33,South,Debit Card,1,27858.75,10,2785.88,25072.87,Returned
+ORD10615,2023-08-13,CUST3356,Electronics,Electronics Product 33,North,Debit Card,5,55522.64,30,83283.96,194329.24,Delivered
+ORD10616,2023-08-13,CUST2949,Books,Books Product 37,North,Net Banking,1,504.99,0,0.0,504.99,Delivered
+ORD10617,2023-08-13,CUST4121,Books,Books Product 9,West,Net Banking,1,466.84,10,46.68,420.16,Returned
+ORD10618,2023-08-14,CUST4013,Clothing,Clothing Product 34,South,Debit Card,2,2592.44,0,0.0,5184.88,Delivered
+ORD10619,2023-08-14,CUST1366,Electronics,Electronics Product 8,West,Cash on Delivery,1,24969.28,15,3745.39,21223.89,Delivered
+ORD10620,2023-08-14,CUST4152,Home & Kitchen,Home & Kitchen Product 20,South,UPI,1,5550.46,15,832.57,4717.89,Delivered
+ORD10621,2023-08-15,CUST1183,Beauty & Personal Care,Beauty & Personal Care Product 15,South,UPI,3,2500.26,15,1125.12,6375.66,Delivered
+ORD10622,2023-08-15,CUST1995,Clothing,Clothing Product 40,South,UPI,3,3861.11,0,0.0,11583.33,Delivered
+ORD10623,2023-08-15,CUST1093,Electronics,Electronics Product 22,South,Net Banking,3,30745.35,5,4611.8,87624.25,Delivered
+ORD10624,2023-08-16,CUST3551,Clothing,Clothing Product 47,South,Credit Card,2,1257.07,5,125.71,2388.43,Delivered
+ORD10625,2023-08-16,CUST1246,Books,Books Product 19,South,Net Banking,2,915.79,0,0.0,1831.58,Returned
+ORD10626,2023-08-17,CUST3704,Home & Kitchen,Home & Kitchen Product 18,East,Credit Card,2,1269.74,0,0.0,2539.48,Delivered
+ORD10627,2023-08-17,CUST3082,Electronics,Electronics Product 46,North,UPI,4,26937.17,10,10774.87,96973.81,Delivered
+ORD10628,2023-08-17,CUST4959,Books,Books Product 30,North,Credit Card,2,1313.35,0,0.0,2626.7,Delivered
+ORD10629,2023-08-18,CUST1075,Clothing,Clothing Product 23,East,UPI,1,4634.59,10,463.46,4171.13,Returned
+ORD10630,2023-08-18,CUST3563,Home & Kitchen,Home & Kitchen Product 17,West,Credit Card,5,3924.97,10,1962.48,17662.37,Delivered
+ORD10631,2023-08-18,CUST3690,Beauty & Personal Care,Beauty & Personal Care Product 9,North,Cash on Delivery,1,2857.48,5,142.87,2714.61,Delivered
+ORD10632,2023-08-19,CUST2709,Beauty & Personal Care,Beauty & Personal Care Product 16,South,Cash on Delivery,2,2889.66,15,866.9,4912.42,Returned
+ORD10633,2023-08-19,CUST3672,Home & Kitchen,Home & Kitchen Product 9,South,Debit Card,1,13691.16,10,1369.12,12322.04,Returned
+ORD10634,2023-08-20,CUST4723,Home & Kitchen,Home & Kitchen Product 50,South,Net Banking,4,10483.72,25,10483.72,31451.16,Delivered
+ORD10635,2023-08-20,CUST1754,Clothing,Clothing Product 21,South,Credit Card,2,1791.55,25,895.77,2687.33,Delivered
+ORD10636,2023-08-20,CUST4054,Home & Kitchen,Home & Kitchen Product 41,East,Debit Card,1,13261.91,10,1326.19,11935.72,Delivered
+ORD10637,2023-08-21,CUST3527,Clothing,Clothing Product 18,South,Net Banking,1,800.93,20,160.19,640.74,Delivered
+ORD10638,2023-08-21,CUST1549,Clothing,Clothing Product 33,West,UPI,1,1384.52,0,0.0,1384.52,Delivered
+ORD10639,2023-08-21,CUST1926,Clothing,Clothing Product 3,West,Credit Card,1,4304.86,0,0.0,4304.86,Returned
+ORD10640,2023-08-22,CUST4103,Home & Kitchen,Home & Kitchen Product 14,North,Debit Card,1,14277.87,15,2141.68,12136.19,Returned
+ORD10641,2023-08-22,CUST4635,Books,Books Product 16,West,Cash on Delivery,1,1313.85,5,65.69,1248.16,Delivered
+ORD10642,2023-08-22,CUST3504,Electronics,Electronics Product 48,North,Net Banking,3,50594.75,20,30356.85,121427.4,Delivered
+ORD10643,2023-08-23,CUST3124,Electronics,Electronics Product 35,West,Credit Card,3,38870.72,0,0.0,116612.16,Returned
+ORD10644,2023-08-23,CUST2192,Beauty & Personal Care,Beauty & Personal Care Product 29,West,UPI,3,1284.1,30,1155.69,2696.61,Returned
+ORD10645,2023-08-24,CUST3826,Home & Kitchen,Home & Kitchen Product 34,South,Cash on Delivery,1,7189.53,15,1078.43,6111.1,Delivered
+ORD10646,2023-08-24,CUST4841,Books,Books Product 45,South,Cash on Delivery,2,225.71,0,0.0,451.42,Delivered
+ORD10647,2023-08-24,CUST4614,Books,Books Product 30,North,UPI,1,552.17,10,55.22,496.95,Returned
+ORD10648,2023-08-25,CUST1373,Home & Kitchen,Home & Kitchen Product 8,West,UPI,4,10529.9,20,8423.92,33695.68,Delivered
+ORD10649,2023-08-25,CUST3507,Electronics,Electronics Product 11,West,Net Banking,1,44286.3,20,8857.26,35429.04,Delivered
+ORD10650,2023-08-25,CUST1664,Books,Books Product 10,South,Credit Card,1,160.51,5,8.03,152.48,Returned
+ORD10651,2023-08-26,CUST3565,Books,Books Product 12,North,Debit Card,2,530.6,30,318.36,742.84,Cancelled
+ORD10652,2023-08-26,CUST4503,Clothing,Clothing Product 32,North,Net Banking,3,315.61,0,0.0,946.83,Delivered
+ORD10653,2023-08-26,CUST2809,Books,Books Product 6,North,Debit Card,2,432.27,10,86.45,778.09,Delivered
+ORD10654,2023-08-27,CUST1200,Beauty & Personal Care,Beauty & Personal Care Product 12,South,Credit Card,2,977.99,20,391.2,1564.78,Returned
+ORD10655,2023-08-27,CUST2222,Home & Kitchen,Home & Kitchen Product 22,North,Credit Card,3,1032.46,15,464.61,2632.77,Delivered
+ORD10656,2023-08-28,CUST3707,Electronics,Electronics Product 45,South,Cash on Delivery,1,36271.77,15,5440.77,30831.0,Delivered
+ORD10657,2023-08-28,CUST2509,Beauty & Personal Care,Beauty & Personal Care Product 25,North,Cash on Delivery,1,1207.89,20,241.58,966.31,Cancelled
+ORD10658,2023-08-28,CUST2348,Beauty & Personal Care,Beauty & Personal Care Product 34,West,Net Banking,1,380.86,0,0.0,380.86,Cancelled
+ORD10659,2023-08-29,CUST1359,Clothing,Clothing Product 31,East,Cash on Delivery,2,3570.09,0,0.0,7140.18,Delivered
+ORD10660,2023-08-29,CUST2449,Beauty & Personal Care,Beauty & Personal Care Product 9,West,Net Banking,1,2573.68,15,386.05,2187.63,Delivered
+ORD10661,2023-08-29,CUST1792,Books,Books Product 1,North,Credit Card,1,789.0,15,118.35,670.65,Cancelled
+ORD10662,2023-08-30,CUST2698,Books,Books Product 27,North,UPI,1,975.27,20,195.05,780.22,Delivered
+ORD10663,2023-08-30,CUST3826,Home & Kitchen,Home & Kitchen Product 19,East,Credit Card,2,8626.02,0,0.0,17252.04,Returned
+ORD10664,2023-08-30,CUST3809,Home & Kitchen,Home & Kitchen Product 22,East,Cash on Delivery,2,4854.12,20,1941.65,7766.59,Delivered
+ORD10665,2023-08-31,CUST4415,Beauty & Personal Care,Beauty & Personal Care Product 22,West,Cash on Delivery,1,1924.4,0,0.0,1924.4,Cancelled
+ORD10666,2023-08-31,CUST4669,Electronics,Electronics Product 22,West,Cash on Delivery,1,53423.92,15,8013.59,45410.33,Delivered
+ORD10667,2023-09-01,CUST3274,Electronics,Electronics Product 35,North,Debit Card,1,67632.93,20,13526.59,54106.34,Cancelled
+ORD10668,2023-09-01,CUST1271,Beauty & Personal Care,Beauty & Personal Care Product 10,East,Credit Card,3,2119.07,25,1589.3,4767.91,Cancelled
+ORD10669,2023-09-01,CUST3480,Home & Kitchen,Home & Kitchen Product 25,South,Net Banking,2,14762.47,20,5904.99,23619.95,Delivered
+ORD10670,2023-09-02,CUST3907,Electronics,Electronics Product 3,East,Cash on Delivery,3,69844.53,20,41906.72,167626.87,Cancelled
+ORD10671,2023-09-02,CUST1885,Electronics,Electronics Product 34,East,Debit Card,1,42279.08,10,4227.91,38051.17,Cancelled
+ORD10672,2023-09-02,CUST2817,Electronics,Electronics Product 33,North,Cash on Delivery,1,33066.18,5,1653.31,31412.87,Delivered
+ORD10673,2023-09-03,CUST2271,Beauty & Personal Care,Beauty & Personal Care Product 50,East,Debit Card,1,630.57,10,63.06,567.51,Delivered
+ORD10674,2023-09-03,CUST1840,Electronics,Electronics Product 47,North,Cash on Delivery,4,66660.39,15,39996.23,226645.33,Returned
+ORD10675,2023-09-03,CUST3814,Books,Books Product 39,North,UPI,2,1098.86,0,0.0,2197.72,Delivered
+ORD10676,2023-09-04,CUST1092,Books,Books Product 37,East,Debit Card,1,1344.75,20,268.95,1075.8,Cancelled
+ORD10677,2023-09-04,CUST3748,Home & Kitchen,Home & Kitchen Product 8,East,Debit Card,1,3408.05,10,340.81,3067.24,Delivered
+ORD10678,2023-09-05,CUST1419,Clothing,Clothing Product 14,East,Net Banking,1,1585.37,15,237.81,1347.56,Delivered
+ORD10679,2023-09-05,CUST2002,Home & Kitchen,Home & Kitchen Product 11,North,UPI,4,4430.26,20,3544.21,14176.83,Delivered
+ORD10680,2023-09-05,CUST2928,Beauty & Personal Care,Beauty & Personal Care Product 44,North,Credit Card,2,2698.17,0,0.0,5396.34,Delivered
+ORD10681,2023-09-06,CUST4650,Books,Books Product 38,West,Net Banking,1,174.37,0,0.0,174.37,Delivered
+ORD10682,2023-09-06,CUST1321,Home & Kitchen,Home & Kitchen Product 49,West,Net Banking,3,5030.39,20,3018.23,12072.94,Delivered
+ORD10683,2023-09-06,CUST2866,Clothing,Clothing Product 20,West,Cash on Delivery,3,735.8,15,331.11,1876.29,Delivered
+ORD10684,2023-09-07,CUST4739,Clothing,Clothing Product 24,West,Debit Card,1,4752.95,25,1188.24,3564.71,Cancelled
+ORD10685,2023-09-07,CUST1267,Home & Kitchen,Home & Kitchen Product 31,North,UPI,4,11937.29,10,4774.92,42974.24,Delivered
+ORD10686,2023-09-07,CUST3353,Books,Books Product 9,North,Cash on Delivery,1,745.2,20,149.04,596.16,Delivered
+ORD10687,2023-09-08,CUST2888,Electronics,Electronics Product 26,West,Debit Card,2,29440.23,20,11776.09,47104.37,Delivered
+ORD10688,2023-09-08,CUST2395,Beauty & Personal Care,Beauty & Personal Care Product 14,West,Cash on Delivery,1,881.58,10,88.16,793.42,Delivered
+ORD10689,2023-09-09,CUST4028,Beauty & Personal Care,Beauty & Personal Care Product 46,West,Credit Card,2,2404.3,5,240.43,4568.17,Delivered
+ORD10690,2023-09-09,CUST1721,Beauty & Personal Care,Beauty & Personal Care Product 20,West,Credit Card,1,1868.61,0,0.0,1868.61,Delivered
+ORD10691,2023-09-09,CUST2341,Beauty & Personal Care,Beauty & Personal Care Product 32,North,Credit Card,3,503.59,20,302.15,1208.62,Delivered
+ORD10692,2023-09-10,CUST4100,Clothing,Clothing Product 10,South,Cash on Delivery,4,4139.87,25,4139.87,12419.61,Delivered
+ORD10693,2023-09-10,CUST3791,Beauty & Personal Care,Beauty & Personal Care Product 21,East,Net Banking,2,1015.5,10,203.1,1827.9,Returned
+ORD10694,2023-09-10,CUST1365,Home & Kitchen,Home & Kitchen Product 38,North,Net Banking,4,13818.27,20,11054.62,44218.46,Cancelled
+ORD10695,2023-09-11,CUST4690,Beauty & Personal Care,Beauty & Personal Care Product 36,North,Credit Card,1,1331.16,5,66.56,1264.6,Cancelled
+ORD10696,2023-09-11,CUST1963,Beauty & Personal Care,Beauty & Personal Care Product 28,West,UPI,1,2497.93,25,624.48,1873.45,Delivered
+ORD10697,2023-09-11,CUST2945,Books,Books Product 9,South,Net Banking,1,667.85,5,33.39,634.46,Returned
+ORD10698,2023-09-12,CUST4574,Books,Books Product 43,South,Debit Card,1,1280.5,10,128.05,1152.45,Cancelled
+ORD10699,2023-09-12,CUST3694,Electronics,Electronics Product 28,South,Credit Card,1,10380.95,20,2076.19,8304.76,Delivered
+ORD10700,2023-09-13,CUST4810,Clothing,Clothing Product 28,South,Cash on Delivery,1,3318.18,10,331.82,2986.36,Delivered
+ORD10701,2023-09-13,CUST1761,Beauty & Personal Care,Beauty & Personal Care Product 28,North,Net Banking,3,1386.97,10,416.09,3744.82,Returned
+ORD10702,2023-09-13,CUST4795,Books,Books Product 35,East,Credit Card,1,1285.37,10,128.54,1156.83,Delivered
+ORD10703,2023-09-14,CUST4939,Electronics,Electronics Product 45,North,Debit Card,2,47611.22,0,0.0,95222.44,Delivered
+ORD10704,2023-09-14,CUST3117,Beauty & Personal Care,Beauty & Personal Care Product 6,North,Debit Card,5,2954.01,20,2954.01,11816.04,Delivered
+ORD10705,2023-09-14,CUST4269,Books,Books Product 38,East,Net Banking,2,982.56,15,294.77,1670.35,Delivered
+ORD10706,2023-09-15,CUST3099,Electronics,Electronics Product 31,East,Cash on Delivery,2,72768.9,0,0.0,145537.8,Delivered
+ORD10707,2023-09-15,CUST3846,Home & Kitchen,Home & Kitchen Product 39,East,Net Banking,3,14428.43,5,2164.26,41121.03,Delivered
+ORD10708,2023-09-15,CUST3688,Home & Kitchen,Home & Kitchen Product 19,North,UPI,1,1390.56,0,0.0,1390.56,Delivered
+ORD10709,2023-09-16,CUST2032,Books,Books Product 9,East,UPI,2,214.6,25,107.3,321.9,Cancelled
+ORD10710,2023-09-16,CUST4026,Home & Kitchen,Home & Kitchen Product 10,West,UPI,1,705.94,0,0.0,705.94,Delivered
+ORD10711,2023-09-17,CUST4530,Clothing,Clothing Product 3,East,Credit Card,2,1527.15,10,305.43,2748.87,Delivered
+ORD10712,2023-09-17,CUST4155,Clothing,Clothing Product 25,South,Cash on Delivery,3,3098.65,20,1859.19,7436.76,Delivered
+ORD10713,2023-09-17,CUST4094,Clothing,Clothing Product 8,North,Debit Card,2,1290.24,5,129.02,2451.46,Cancelled
+ORD10714,2023-09-18,CUST1957,Books,Books Product 25,West,Cash on Delivery,1,657.64,20,131.53,526.11,Delivered
+ORD10715,2023-09-18,CUST2564,Home & Kitchen,Home & Kitchen Product 44,East,Net Banking,4,2604.67,0,0.0,10418.68,Delivered
+ORD10716,2023-09-18,CUST3500,Electronics,Electronics Product 42,East,UPI,2,12302.32,10,2460.46,22144.18,Delivered
+ORD10717,2023-09-19,CUST2888,Home & Kitchen,Home & Kitchen Product 50,South,Net Banking,1,4372.77,15,655.92,3716.85,Delivered
+ORD10718,2023-09-19,CUST3243,Clothing,Clothing Product 1,North,Credit Card,2,2743.3,30,1645.98,3840.62,Cancelled
+ORD10719,2023-09-19,CUST1898,Electronics,Electronics Product 47,East,UPI,2,35843.66,15,10753.1,60934.22,Cancelled
+ORD10720,2023-09-20,CUST3689,Clothing,Clothing Product 14,North,Credit Card,2,459.03,0,0.0,918.06,Delivered
+ORD10721,2023-09-20,CUST4289,Electronics,Electronics Product 12,North,Debit Card,1,69233.06,15,10384.96,58848.1,Delivered
+ORD10722,2023-09-21,CUST4779,Home & Kitchen,Home & Kitchen Product 18,West,UPI,2,4771.24,0,0.0,9542.48,Delivered
+ORD10723,2023-09-21,CUST2591,Home & Kitchen,Home & Kitchen Product 22,North,UPI,1,2848.51,20,569.7,2278.81,Delivered
+ORD10724,2023-09-21,CUST3499,Home & Kitchen,Home & Kitchen Product 26,South,Cash on Delivery,1,3079.98,30,923.99,2155.99,Returned
+ORD10725,2023-09-22,CUST4738,Electronics,Electronics Product 29,East,Credit Card,3,15790.45,5,2368.57,45002.78,Delivered
+ORD10726,2023-09-22,CUST1076,Electronics,Electronics Product 32,South,Credit Card,2,10468.96,5,1046.9,19891.02,Delivered
+ORD10727,2023-09-22,CUST3353,Electronics,Electronics Product 1,West,Cash on Delivery,1,54845.44,20,10969.09,43876.35,Delivered
+ORD10728,2023-09-23,CUST3212,Books,Books Product 15,North,Cash on Delivery,2,664.88,20,265.95,1063.81,Delivered
+ORD10729,2023-09-23,CUST3792,Books,Books Product 20,West,Credit Card,2,268.81,30,161.29,376.33,Cancelled
+ORD10730,2023-09-23,CUST4114,Electronics,Electronics Product 50,East,Debit Card,3,32401.65,5,4860.25,92344.7,Delivered
+ORD10731,2023-09-24,CUST3850,Clothing,Clothing Product 25,North,UPI,5,2905.59,15,2179.19,12348.76,Cancelled
+ORD10732,2023-09-24,CUST1146,Books,Books Product 13,North,Net Banking,2,217.89,20,87.16,348.62,Returned
+ORD10733,2023-09-25,CUST3046,Clothing,Clothing Product 35,West,Credit Card,1,2598.88,10,259.89,2338.99,Cancelled
+ORD10734,2023-09-25,CUST1484,Electronics,Electronics Product 14,West,Net Banking,1,30446.38,20,6089.28,24357.1,Delivered
+ORD10735,2023-09-25,CUST3002,Clothing,Clothing Product 42,North,Cash on Delivery,1,3782.68,0,0.0,3782.68,Returned
+ORD10736,2023-09-26,CUST3591,Beauty & Personal Care,Beauty & Personal Care Product 4,East,Credit Card,2,327.29,0,0.0,654.58,Returned
+ORD10737,2023-09-26,CUST1467,Books,Books Product 32,South,Credit Card,3,955.33,0,0.0,2865.99,Delivered
+ORD10738,2023-09-26,CUST2328,Clothing,Clothing Product 8,South,UPI,3,2302.62,30,2072.36,4835.5,Delivered
+ORD10739,2023-09-27,CUST2121,Clothing,Clothing Product 10,West,Debit Card,2,3891.64,5,389.16,7394.12,Delivered
+ORD10740,2023-09-27,CUST1546,Home & Kitchen,Home & Kitchen Product 7,West,Debit Card,1,8524.41,25,2131.1,6393.31,Delivered
+ORD10741,2023-09-27,CUST3894,Electronics,Electronics Product 42,East,Cash on Delivery,1,70972.02,0,0.0,70972.02,Delivered
+ORD10742,2023-09-28,CUST2844,Books,Books Product 27,South,Debit Card,1,1068.99,15,160.35,908.64,Delivered
+ORD10743,2023-09-28,CUST4892,Beauty & Personal Care,Beauty & Personal Care Product 6,East,UPI,2,2136.38,20,854.55,3418.21,Delivered
+ORD10744,2023-09-29,CUST5000,Books,Books Product 7,East,Net Banking,1,105.4,0,0.0,105.4,Delivered
+ORD10745,2023-09-29,CUST1217,Beauty & Personal Care,Beauty & Personal Care Product 13,North,Debit Card,3,813.19,15,365.94,2073.63,Cancelled
+ORD10746,2023-09-29,CUST3641,Books,Books Product 24,East,Debit Card,1,796.02,25,199.0,597.02,Delivered
+ORD10747,2023-09-30,CUST1177,Books,Books Product 7,North,Net Banking,2,451.19,25,225.59,676.79,Delivered
+ORD10748,2023-09-30,CUST4666,Clothing,Clothing Product 16,West,Net Banking,1,1041.97,10,104.2,937.77,Delivered
+ORD10749,2023-09-30,CUST1942,Beauty & Personal Care,Beauty & Personal Care Product 50,North,UPI,1,1112.05,15,166.81,945.24,Cancelled
+ORD10750,2023-10-01,CUST4651,Clothing,Clothing Product 15,North,Cash on Delivery,2,760.0,25,380.0,1140.0,Delivered
+ORD10751,2023-10-01,CUST2863,Beauty & Personal Care,Beauty & Personal Care Product 12,West,UPI,4,1555.83,0,0.0,6223.32,Delivered
+ORD10752,2023-10-02,CUST1828,Clothing,Clothing Product 22,South,Credit Card,1,2450.84,10,245.08,2205.76,Cancelled
+ORD10753,2023-10-02,CUST2713,Beauty & Personal Care,Beauty & Personal Care Product 11,East,Debit Card,1,366.08,25,91.52,274.56,Delivered
+ORD10754,2023-10-02,CUST4709,Home & Kitchen,Home & Kitchen Product 11,South,Credit Card,3,9252.72,15,4163.72,23594.44,Delivered
+ORD10755,2023-10-03,CUST2939,Books,Books Product 30,East,Credit Card,1,1299.62,30,389.89,909.73,Delivered
+ORD10756,2023-10-03,CUST1910,Books,Books Product 38,South,Net Banking,1,1130.39,5,56.52,1073.87,Delivered
+ORD10757,2023-10-03,CUST1137,Electronics,Electronics Product 28,West,Cash on Delivery,1,36332.89,30,10899.87,25433.02,Delivered
+ORD10758,2023-10-04,CUST3839,Electronics,Electronics Product 47,West,Debit Card,1,38933.1,15,5839.97,33093.13,Delivered
+ORD10759,2023-10-04,CUST2965,Clothing,Clothing Product 43,East,Debit Card,1,1983.87,30,595.16,1388.71,Delivered
+ORD10760,2023-10-04,CUST2899,Books,Books Product 50,South,Cash on Delivery,2,1300.95,0,0.0,2601.9,Delivered
+ORD10761,2023-10-05,CUST4524,Clothing,Clothing Product 41,North,Cash on Delivery,1,4012.13,10,401.21,3610.92,Delivered
+ORD10762,2023-10-05,CUST3221,Home & Kitchen,Home & Kitchen Product 37,South,Credit Card,1,8198.34,20,1639.67,6558.67,Delivered
+ORD10763,2023-10-06,CUST4637,Beauty & Personal Care,Beauty & Personal Care Product 4,North,Cash on Delivery,2,2666.25,0,0.0,5332.5,Cancelled
+ORD10764,2023-10-06,CUST3887,Home & Kitchen,Home & Kitchen Product 5,South,Debit Card,1,7247.62,10,724.76,6522.86,Delivered
+ORD10765,2023-10-06,CUST4568,Home & Kitchen,Home & Kitchen Product 45,South,Debit Card,1,3960.17,10,396.02,3564.15,Delivered
+ORD10766,2023-10-07,CUST1223,Home & Kitchen,Home & Kitchen Product 5,East,UPI,1,5614.32,15,842.15,4772.17,Cancelled
+ORD10767,2023-10-07,CUST3778,Books,Books Product 35,East,Cash on Delivery,2,780.2,0,0.0,1560.4,Delivered
+ORD10768,2023-10-07,CUST1771,Beauty & Personal Care,Beauty & Personal Care Product 30,North,Credit Card,2,1230.18,15,369.05,2091.31,Delivered
+ORD10769,2023-10-08,CUST1674,Books,Books Product 18,North,Debit Card,1,1357.02,30,407.11,949.91,Delivered
+ORD10770,2023-10-08,CUST2200,Books,Books Product 27,South,Cash on Delivery,1,309.85,30,92.95,216.9,Delivered
+ORD10771,2023-10-08,CUST1257,Home & Kitchen,Home & Kitchen Product 2,South,Net Banking,2,6591.88,0,0.0,13183.76,Returned
+ORD10772,2023-10-09,CUST2991,Home & Kitchen,Home & Kitchen Product 38,West,Cash on Delivery,1,6469.53,15,970.43,5499.1,Cancelled
+ORD10773,2023-10-09,CUST1928,Home & Kitchen,Home & Kitchen Product 31,East,UPI,4,8725.15,5,1745.03,33155.57,Cancelled
+ORD10774,2023-10-10,CUST4785,Electronics,Electronics Product 11,East,Debit Card,1,16125.38,30,4837.61,11287.77,Delivered
+ORD10775,2023-10-10,CUST1660,Clothing,Clothing Product 16,North,Credit Card,2,4244.7,15,1273.41,7215.99,Returned
+ORD10776,2023-10-10,CUST3303,Home & Kitchen,Home & Kitchen Product 46,North,UPI,1,8830.61,10,883.06,7947.55,Returned
+ORD10777,2023-10-11,CUST2235,Home & Kitchen,Home & Kitchen Product 8,North,Cash on Delivery,1,2645.19,30,793.56,1851.63,Delivered
+ORD10778,2023-10-11,CUST1017,Books,Books Product 48,East,UPI,4,1175.69,25,1175.69,3527.07,Returned
+ORD10779,2023-10-11,CUST3731,Books,Books Product 10,West,UPI,5,1354.26,20,1354.26,5417.04,Delivered
+ORD10780,2023-10-12,CUST1478,Electronics,Electronics Product 20,North,Cash on Delivery,4,59873.04,0,0.0,239492.16,Delivered
+ORD10781,2023-10-12,CUST3490,Beauty & Personal Care,Beauty & Personal Care Product 42,South,Net Banking,1,2554.3,0,0.0,2554.3,Delivered
+ORD10782,2023-10-12,CUST1342,Beauty & Personal Care,Beauty & Personal Care Product 35,West,Credit Card,4,821.22,5,164.24,3120.64,Delivered
+ORD10783,2023-10-13,CUST4864,Beauty & Personal Care,Beauty & Personal Care Product 4,East,Cash on Delivery,1,1303.78,15,195.57,1108.21,Delivered
+ORD10784,2023-10-13,CUST2165,Clothing,Clothing Product 23,East,UPI,1,3664.75,10,366.48,3298.27,Delivered
+ORD10785,2023-10-14,CUST4037,Books,Books Product 27,West,UPI,1,1323.9,20,264.78,1059.12,Delivered
+ORD10786,2023-10-14,CUST1571,Clothing,Clothing Product 38,North,Debit Card,5,4086.47,10,2043.23,18389.12,Delivered
+ORD10787,2023-10-14,CUST1270,Clothing,Clothing Product 38,West,Credit Card,5,1724.49,10,862.25,7760.2,Cancelled
+ORD10788,2023-10-15,CUST2892,Electronics,Electronics Product 46,South,Debit Card,4,35709.55,10,14283.82,128554.38,Delivered
+ORD10789,2023-10-15,CUST4418,Clothing,Clothing Product 38,East,Cash on Delivery,1,4211.57,10,421.16,3790.41,Cancelled
+ORD10790,2023-10-15,CUST2075,Beauty & Personal Care,Beauty & Personal Care Product 20,West,Credit Card,1,2271.34,20,454.27,1817.07,Returned
+ORD10791,2023-10-16,CUST1116,Home & Kitchen,Home & Kitchen Product 8,East,Cash on Delivery,1,6548.77,15,982.32,5566.45,Returned
+ORD10792,2023-10-16,CUST4556,Electronics,Electronics Product 17,West,Credit Card,1,49916.85,10,4991.69,44925.16,Delivered
+ORD10793,2023-10-16,CUST3382,Home & Kitchen,Home & Kitchen Product 4,South,UPI,2,7931.63,20,3172.65,12690.61,Returned
+ORD10794,2023-10-17,CUST2479,Books,Books Product 27,East,Credit Card,1,1329.52,0,0.0,1329.52,Cancelled
+ORD10795,2023-10-17,CUST4139,Home & Kitchen,Home & Kitchen Product 41,South,Credit Card,2,4729.13,0,0.0,9458.26,Returned
+ORD10796,2023-10-18,CUST2111,Beauty & Personal Care,Beauty & Personal Care Product 44,East,Credit Card,2,2307.11,25,1153.56,3460.66,Cancelled
+ORD10797,2023-10-18,CUST2152,Beauty & Personal Care,Beauty & Personal Care Product 24,West,Cash on Delivery,3,1823.71,0,0.0,5471.13,Delivered
+ORD10798,2023-10-18,CUST1905,Home & Kitchen,Home & Kitchen Product 13,North,Cash on Delivery,1,13853.16,5,692.66,13160.5,Delivered
+ORD10799,2023-10-19,CUST2964,Books,Books Product 23,East,UPI,1,1382.36,0,0.0,1382.36,Delivered
+ORD10800,2023-10-19,CUST1705,Clothing,Clothing Product 46,East,Credit Card,4,4139.9,15,2483.94,14075.66,Cancelled
+ORD10801,2023-10-19,CUST2259,Electronics,Electronics Product 9,South,Debit Card,3,21676.84,0,0.0,65030.52,Returned
+ORD10802,2023-10-20,CUST4173,Electronics,Electronics Product 31,West,Credit Card,3,36860.38,0,0.0,110581.14,Delivered
+ORD10803,2023-10-20,CUST2921,Clothing,Clothing Product 8,East,Credit Card,3,805.85,10,241.75,2175.8,Delivered
+ORD10804,2023-10-20,CUST4768,Electronics,Electronics Product 39,South,Net Banking,1,27623.44,0,0.0,27623.44,Delivered
+ORD10805,2023-10-21,CUST4886,Clothing,Clothing Product 38,East,UPI,1,1167.66,0,0.0,1167.66,Cancelled
+ORD10806,2023-10-21,CUST3335,Clothing,Clothing Product 5,North,Net Banking,3,4319.0,15,1943.55,11013.45,Delivered
+ORD10807,2023-10-22,CUST4693,Electronics,Electronics Product 49,North,Credit Card,2,44662.91,30,26797.75,62528.07,Returned
+ORD10808,2023-10-22,CUST1758,Clothing,Clothing Product 29,North,Debit Card,3,4626.16,10,1387.85,12490.63,Delivered
+ORD10809,2023-10-22,CUST1462,Home & Kitchen,Home & Kitchen Product 49,East,Credit Card,1,14728.87,10,1472.89,13255.98,Delivered
+ORD10810,2023-10-23,CUST3282,Books,Books Product 47,North,Credit Card,1,253.55,20,50.71,202.84,Cancelled
+ORD10811,2023-10-23,CUST3814,Home & Kitchen,Home & Kitchen Product 29,South,Net Banking,1,7658.84,10,765.88,6892.96,Cancelled
+ORD10812,2023-10-23,CUST4664,Books,Books Product 31,East,Debit Card,3,506.12,0,0.0,1518.36,Delivered
+ORD10813,2023-10-24,CUST3140,Electronics,Electronics Product 43,North,Credit Card,1,79904.25,0,0.0,79904.25,Delivered
+ORD10814,2023-10-24,CUST1265,Clothing,Clothing Product 24,South,UPI,2,2155.01,30,1293.01,3017.01,Returned
+ORD10815,2023-10-24,CUST3970,Clothing,Clothing Product 32,East,Net Banking,5,3095.91,0,0.0,15479.55,Delivered
+ORD10816,2023-10-25,CUST2458,Beauty & Personal Care,Beauty & Personal Care Product 31,West,Cash on Delivery,3,963.6,15,433.62,2457.18,Delivered
+ORD10817,2023-10-25,CUST3004,Beauty & Personal Care,Beauty & Personal Care Product 32,South,Debit Card,3,980.17,0,0.0,2940.51,Cancelled
+ORD10818,2023-10-26,CUST4981,Electronics,Electronics Product 12,West,Net Banking,1,12470.25,0,0.0,12470.25,Delivered
+ORD10819,2023-10-26,CUST3707,Home & Kitchen,Home & Kitchen Product 49,West,Cash on Delivery,2,2714.68,0,0.0,5429.36,Delivered
+ORD10820,2023-10-26,CUST2407,Clothing,Clothing Product 35,North,Credit Card,1,1679.04,10,167.9,1511.14,Delivered
+ORD10821,2023-10-27,CUST2812,Books,Books Product 30,North,Credit Card,1,1332.06,10,133.21,1198.85,Delivered
+ORD10822,2023-10-27,CUST3013,Clothing,Clothing Product 28,South,UPI,3,2915.89,5,437.38,8310.29,Returned
+ORD10823,2023-10-27,CUST3807,Books,Books Product 35,West,Cash on Delivery,1,781.92,15,117.29,664.63,Delivered
+ORD10824,2023-10-28,CUST3420,Beauty & Personal Care,Beauty & Personal Care Product 25,East,UPI,2,2592.04,10,518.41,4665.67,Delivered
+ORD10825,2023-10-28,CUST2428,Home & Kitchen,Home & Kitchen Product 48,North,UPI,2,1390.65,0,0.0,2781.3,Cancelled
+ORD10826,2023-10-28,CUST1231,Books,Books Product 43,South,Debit Card,1,235.39,10,23.54,211.85,Cancelled
+ORD10827,2023-10-29,CUST4559,Clothing,Clothing Product 20,North,UPI,2,3345.64,25,1672.82,5018.46,Delivered
+ORD10828,2023-10-29,CUST3326,Clothing,Clothing Product 33,West,UPI,1,391.67,10,39.17,352.5,Delivered
+ORD10829,2023-10-30,CUST3336,Electronics,Electronics Product 25,East,Net Banking,2,57196.89,30,34318.13,80075.65,Delivered
+ORD10830,2023-10-30,CUST3034,Electronics,Electronics Product 33,East,Debit Card,1,65624.49,15,9843.67,55780.82,Cancelled
+ORD10831,2023-10-30,CUST4442,Beauty & Personal Care,Beauty & Personal Care Product 35,South,UPI,5,1037.96,5,259.49,4930.31,Delivered
+ORD10832,2023-10-31,CUST3558,Home & Kitchen,Home & Kitchen Product 48,North,Net Banking,5,1189.2,10,594.6,5351.4,Returned
+ORD10833,2023-10-31,CUST2946,Electronics,Electronics Product 28,South,UPI,1,49389.85,15,7408.48,41981.37,Delivered
+ORD10834,2023-10-31,CUST3717,Electronics,Electronics Product 35,East,Debit Card,1,53865.26,20,10773.05,43092.21,Delivered
+ORD10835,2023-11-01,CUST1739,Books,Books Product 2,South,Net Banking,2,662.62,10,132.52,1192.72,Delivered
+ORD10836,2023-11-01,CUST2097,Books,Books Product 41,West,Net Banking,5,397.35,20,397.35,1589.4,Delivered
+ORD10837,2023-11-01,CUST4057,Electronics,Electronics Product 44,East,Cash on Delivery,1,44170.22,0,0.0,44170.22,Returned
+ORD10838,2023-11-02,CUST4465,Books,Books Product 27,East,UPI,3,545.43,0,0.0,1636.29,Returned
+ORD10839,2023-11-02,CUST1614,Clothing,Clothing Product 13,North,Debit Card,2,1504.56,10,300.91,2708.21,Delivered
+ORD10840,2023-11-03,CUST1827,Home & Kitchen,Home & Kitchen Product 11,East,Debit Card,2,7230.32,10,1446.06,13014.58,Delivered
+ORD10841,2023-11-03,CUST3639,Electronics,Electronics Product 3,West,Credit Card,3,24379.76,15,10970.89,62168.39,Returned
+ORD10842,2023-11-03,CUST4688,Electronics,Electronics Product 27,East,Credit Card,1,69468.8,15,10420.32,59048.48,Delivered
+ORD10843,2023-11-04,CUST3338,Books,Books Product 48,North,Net Banking,2,1420.37,0,0.0,2840.74,Delivered
+ORD10844,2023-11-04,CUST1975,Beauty & Personal Care,Beauty & Personal Care Product 39,North,UPI,4,2859.04,5,571.81,10864.35,Delivered
+ORD10845,2023-11-04,CUST4831,Home & Kitchen,Home & Kitchen Product 28,South,Debit Card,2,12568.85,20,5027.54,20110.16,Returned
+ORD10846,2023-11-05,CUST4534,Electronics,Electronics Product 38,North,Cash on Delivery,5,18136.57,10,9068.28,81614.57,Cancelled
+ORD10847,2023-11-05,CUST2945,Beauty & Personal Care,Beauty & Personal Care Product 44,South,UPI,4,1248.55,5,249.71,4744.49,Delivered
+ORD10848,2023-11-05,CUST3643,Clothing,Clothing Product 39,North,Credit Card,2,2005.45,20,802.18,3208.72,Delivered
+ORD10849,2023-11-06,CUST4699,Clothing,Clothing Product 44,North,Net Banking,1,1488.27,15,223.24,1265.03,Cancelled
+ORD10850,2023-11-06,CUST4799,Clothing,Clothing Product 17,East,Credit Card,1,4330.8,25,1082.7,3248.1,Delivered
+ORD10851,2023-11-07,CUST3586,Clothing,Clothing Product 21,West,Credit Card,3,1697.19,0,0.0,5091.57,Delivered
+ORD10852,2023-11-07,CUST4018,Home & Kitchen,Home & Kitchen Product 27,East,Cash on Delivery,3,13063.45,25,9797.59,29392.76,Delivered
+ORD10853,2023-11-07,CUST2723,Electronics,Electronics Product 39,East,Cash on Delivery,2,66830.06,10,13366.01,120294.11,Cancelled
+ORD10854,2023-11-08,CUST4240,Electronics,Electronics Product 42,South,Credit Card,2,62148.16,0,0.0,124296.32,Delivered
+ORD10855,2023-11-08,CUST1646,Books,Books Product 16,South,Net Banking,1,379.31,15,56.9,322.41,Delivered
+ORD10856,2023-11-08,CUST2067,Books,Books Product 12,East,UPI,1,1209.49,10,120.95,1088.54,Returned
+ORD10857,2023-11-09,CUST4869,Clothing,Clothing Product 37,South,Credit Card,1,695.76,10,69.58,626.18,Delivered
+ORD10858,2023-11-09,CUST4990,Electronics,Electronics Product 30,South,UPI,2,74233.43,15,22270.03,126196.83,Delivered
+ORD10859,2023-11-09,CUST1364,Clothing,Clothing Product 24,South,Net Banking,2,533.03,15,159.91,906.15,Returned
+ORD10860,2023-11-10,CUST4388,Electronics,Electronics Product 44,West,Credit Card,2,6058.62,20,2423.45,9693.79,Delivered
+ORD10861,2023-11-10,CUST2179,Clothing,Clothing Product 48,West,Cash on Delivery,1,3653.46,25,913.37,2740.09,Cancelled
+ORD10862,2023-11-11,CUST3976,Clothing,Clothing Product 44,South,Cash on Delivery,1,2326.58,5,116.33,2210.25,Cancelled
+ORD10863,2023-11-11,CUST1964,Clothing,Clothing Product 40,West,Debit Card,1,2219.47,5,110.97,2108.5,Cancelled
+ORD10864,2023-11-11,CUST1545,Home & Kitchen,Home & Kitchen Product 21,West,Debit Card,2,8952.09,0,0.0,17904.18,Delivered
+ORD10865,2023-11-12,CUST3281,Books,Books Product 4,North,UPI,2,1091.54,5,109.15,2073.93,Delivered
+ORD10866,2023-11-12,CUST3906,Clothing,Clothing Product 48,North,Credit Card,1,2512.85,15,376.93,2135.92,Delivered
+ORD10867,2023-11-12,CUST1541,Home & Kitchen,Home & Kitchen Product 36,North,Net Banking,1,7815.86,30,2344.76,5471.1,Cancelled
+ORD10868,2023-11-13,CUST1540,Clothing,Clothing Product 6,East,Net Banking,2,1522.63,25,761.32,2283.94,Delivered
+ORD10869,2023-11-13,CUST3044,Books,Books Product 18,East,Cash on Delivery,1,297.66,0,0.0,297.66,Returned
+ORD10870,2023-11-13,CUST3117,Home & Kitchen,Home & Kitchen Product 21,West,Debit Card,1,13590.49,20,2718.1,10872.39,Cancelled
+ORD10871,2023-11-14,CUST4494,Home & Kitchen,Home & Kitchen Product 43,West,Credit Card,1,11184.6,30,3355.38,7829.22,Delivered
+ORD10872,2023-11-14,CUST1669,Clothing,Clothing Product 46,West,Cash on Delivery,1,997.67,0,0.0,997.67,Cancelled
+ORD10873,2023-11-15,CUST3904,Electronics,Electronics Product 36,West,Cash on Delivery,4,79640.13,0,0.0,318560.52,Cancelled
+ORD10874,2023-11-15,CUST1383,Books,Books Product 14,East,Debit Card,2,256.6,0,0.0,513.2,Cancelled
+ORD10875,2023-11-15,CUST1869,Clothing,Clothing Product 38,North,Net Banking,3,3824.45,15,1721.0,9752.35,Delivered
+ORD10876,2023-11-16,CUST3772,Beauty & Personal Care,Beauty & Personal Care Product 7,East,Credit Card,4,704.77,5,140.95,2678.13,Delivered
+ORD10877,2023-11-16,CUST4805,Home & Kitchen,Home & Kitchen Product 7,East,Debit Card,2,10379.03,10,2075.81,18682.25,Delivered
+ORD10878,2023-11-16,CUST3573,Electronics,Electronics Product 18,North,UPI,3,11079.74,15,4985.88,28253.34,Delivered
+ORD10879,2023-11-17,CUST1529,Electronics,Electronics Product 14,North,UPI,5,54212.96,5,13553.24,257511.56,Delivered
+ORD10880,2023-11-17,CUST2562,Home & Kitchen,Home & Kitchen Product 6,West,UPI,2,12073.13,10,2414.63,21731.63,Delivered
+ORD10881,2023-11-18,CUST4491,Clothing,Clothing Product 14,South,Cash on Delivery,3,1427.62,10,428.29,3854.57,Delivered
+ORD10882,2023-11-18,CUST2222,Books,Books Product 32,West,UPI,3,498.2,15,224.19,1270.41,Delivered
+ORD10883,2023-11-18,CUST1818,Beauty & Personal Care,Beauty & Personal Care Product 32,West,Cash on Delivery,2,566.73,20,226.69,906.77,Delivered
+ORD10884,2023-11-19,CUST4321,Books,Books Product 24,South,Cash on Delivery,2,475.14,0,0.0,950.28,Delivered
+ORD10885,2023-11-19,CUST3652,Books,Books Product 44,South,Cash on Delivery,2,229.22,30,137.53,320.91,Returned
+ORD10886,2023-11-19,CUST1324,Beauty & Personal Care,Beauty & Personal Care Product 31,East,Debit Card,2,1962.4,5,196.24,3728.56,Delivered
+ORD10887,2023-11-20,CUST2210,Clothing,Clothing Product 37,North,Net Banking,1,3515.96,5,175.8,3340.16,Delivered
+ORD10888,2023-11-20,CUST1387,Electronics,Electronics Product 30,East,UPI,2,73797.65,10,14759.53,132835.77,Delivered
+ORD10889,2023-11-20,CUST1735,Home & Kitchen,Home & Kitchen Product 12,West,Credit Card,3,8990.73,0,0.0,26972.19,Delivered
+ORD10890,2023-11-21,CUST4102,Electronics,Electronics Product 43,West,Net Banking,2,36218.87,5,3621.89,68815.85,Delivered
+ORD10891,2023-11-21,CUST1758,Home & Kitchen,Home & Kitchen Product 6,East,Credit Card,4,5449.35,20,4359.48,17437.92,Returned
+ORD10892,2023-11-22,CUST3686,Books,Books Product 31,West,Cash on Delivery,1,847.66,0,0.0,847.66,Returned
+ORD10893,2023-11-22,CUST2477,Beauty & Personal Care,Beauty & Personal Care Product 45,West,UPI,1,2232.28,20,446.46,1785.82,Delivered
+ORD10894,2023-11-22,CUST3850,Electronics,Electronics Product 13,North,Debit Card,1,14381.71,0,0.0,14381.71,Delivered
+ORD10895,2023-11-23,CUST1781,Books,Books Product 6,East,Cash on Delivery,2,1007.72,10,201.54,1813.9,Delivered
+ORD10896,2023-11-23,CUST4026,Clothing,Clothing Product 45,West,Cash on Delivery,1,2527.22,0,0.0,2527.22,Returned
+ORD10897,2023-11-23,CUST3332,Books,Books Product 26,North,UPI,1,126.5,5,6.33,120.17,Cancelled
+ORD10898,2023-11-24,CUST4475,Electronics,Electronics Product 32,East,Credit Card,3,12699.76,10,3809.93,34289.35,Delivered
+ORD10899,2023-11-24,CUST1949,Books,Books Product 46,North,Net Banking,2,658.95,20,263.58,1054.32,Delivered
+ORD10900,2023-11-24,CUST4641,Electronics,Electronics Product 31,North,Cash on Delivery,1,36650.34,0,0.0,36650.34,Delivered
+ORD10901,2023-11-25,CUST1660,Beauty & Personal Care,Beauty & Personal Care Product 19,South,Cash on Delivery,1,2829.04,15,424.36,2404.68,Delivered
+ORD10902,2023-11-25,CUST4775,Home & Kitchen,Home & Kitchen Product 39,West,Debit Card,2,6852.6,15,2055.78,11649.42,Cancelled
+ORD10903,2023-11-26,CUST4260,Home & Kitchen,Home & Kitchen Product 31,South,Net Banking,1,10983.43,10,1098.34,9885.09,Cancelled
+ORD10904,2023-11-26,CUST1709,Clothing,Clothing Product 13,South,Net Banking,2,1626.83,15,488.05,2765.61,Returned
+ORD10905,2023-11-26,CUST1961,Books,Books Product 14,North,Credit Card,1,240.37,30,72.11,168.26,Cancelled
+ORD10906,2023-11-27,CUST1130,Home & Kitchen,Home & Kitchen Product 5,East,Cash on Delivery,1,13273.14,0,0.0,13273.14,Delivered
+ORD10907,2023-11-27,CUST2393,Electronics,Electronics Product 23,North,Net Banking,1,51317.22,5,2565.86,48751.36,Cancelled
+ORD10908,2023-11-27,CUST3742,Home & Kitchen,Home & Kitchen Product 7,North,Cash on Delivery,3,13496.61,25,10122.46,30367.37,Delivered
+ORD10909,2023-11-28,CUST3497,Books,Books Product 7,North,Net Banking,3,1447.67,30,1302.9,3040.11,Delivered
+ORD10910,2023-11-28,CUST1643,Electronics,Electronics Product 47,East,Cash on Delivery,1,17528.47,5,876.42,16652.05,Cancelled
+ORD10911,2023-11-28,CUST2370,Beauty & Personal Care,Beauty & Personal Care Product 9,North,Debit Card,4,1594.99,0,0.0,6379.96,Cancelled
+ORD10912,2023-11-29,CUST2398,Books,Books Product 19,South,Credit Card,3,1457.46,0,0.0,4372.38,Delivered
+ORD10913,2023-11-29,CUST1620,Home & Kitchen,Home & Kitchen Product 49,West,Debit Card,3,5900.33,10,1770.1,15930.89,Returned
+ORD10914,2023-11-30,CUST4898,Clothing,Clothing Product 34,East,Credit Card,1,4068.11,10,406.81,3661.3,Delivered
+ORD10915,2023-11-30,CUST1347,Books,Books Product 22,East,Cash on Delivery,1,302.96,20,60.59,242.37,Delivered
+ORD10916,2023-11-30,CUST4696,Clothing,Clothing Product 37,North,Net Banking,1,2339.57,0,0.0,2339.57,Returned
+ORD10917,2023-12-01,CUST3955,Home & Kitchen,Home & Kitchen Product 48,East,UPI,4,6579.93,20,5263.94,21055.78,Cancelled
+ORD10918,2023-12-01,CUST3868,Electronics,Electronics Product 26,West,Debit Card,4,67025.27,15,40215.16,227885.92,Returned
+ORD10919,2023-12-01,CUST4635,Beauty & Personal Care,Beauty & Personal Care Product 42,West,Debit Card,2,1947.83,10,389.57,3506.09,Cancelled
+ORD10920,2023-12-02,CUST3131,Home & Kitchen,Home & Kitchen Product 35,East,Debit Card,2,1722.07,10,344.41,3099.73,Returned
+ORD10921,2023-12-02,CUST1095,Electronics,Electronics Product 2,East,Debit Card,1,43375.37,5,2168.77,41206.6,Returned
+ORD10922,2023-12-02,CUST4447,Home & Kitchen,Home & Kitchen Product 24,East,Net Banking,5,11034.38,0,0.0,55171.9,Delivered
+ORD10923,2023-12-03,CUST2220,Home & Kitchen,Home & Kitchen Product 37,North,Cash on Delivery,3,2295.29,25,1721.47,5164.4,Delivered
+ORD10924,2023-12-03,CUST3927,Home & Kitchen,Home & Kitchen Product 41,South,UPI,3,14752.78,30,13277.5,30980.84,Delivered
+ORD10925,2023-12-04,CUST3925,Home & Kitchen,Home & Kitchen Product 25,South,Credit Card,3,4625.76,20,2775.46,11101.82,Returned
+ORD10926,2023-12-04,CUST1401,Home & Kitchen,Home & Kitchen Product 10,West,Cash on Delivery,1,7988.55,20,1597.71,6390.84,Delivered
+ORD10927,2023-12-04,CUST2827,Electronics,Electronics Product 5,East,Net Banking,1,11918.65,0,0.0,11918.65,Returned
+ORD10928,2023-12-05,CUST3393,Books,Books Product 32,West,Cash on Delivery,2,923.12,10,184.62,1661.62,Cancelled
+ORD10929,2023-12-05,CUST1520,Books,Books Product 32,West,Debit Card,1,1124.14,0,0.0,1124.14,Delivered
+ORD10930,2023-12-05,CUST1133,Beauty & Personal Care,Beauty & Personal Care Product 48,South,Net Banking,1,2617.02,5,130.85,2486.17,Delivered
+ORD10931,2023-12-06,CUST1495,Home & Kitchen,Home & Kitchen Product 24,East,Credit Card,1,13864.61,25,3466.15,10398.46,Delivered
+ORD10932,2023-12-06,CUST2204,Beauty & Personal Care,Beauty & Personal Care Product 32,North,Debit Card,1,628.41,30,188.52,439.89,Cancelled
+ORD10933,2023-12-06,CUST4641,Clothing,Clothing Product 19,South,Debit Card,1,3983.61,25,995.9,2987.71,Cancelled
+ORD10934,2023-12-07,CUST2710,Books,Books Product 31,East,Net Banking,2,101.92,0,0.0,203.84,Delivered
+ORD10935,2023-12-07,CUST1543,Books,Books Product 49,South,Net Banking,3,1360.3,10,408.09,3672.81,Delivered
+ORD10936,2023-12-08,CUST1365,Books,Books Product 40,West,Cash on Delivery,2,1166.11,0,0.0,2332.22,Cancelled
+ORD10937,2023-12-08,CUST4014,Clothing,Clothing Product 18,North,Debit Card,1,4531.05,0,0.0,4531.05,Delivered
+ORD10938,2023-12-08,CUST3642,Electronics,Electronics Product 8,North,Debit Card,3,47899.61,20,28739.77,114959.06,Delivered
+ORD10939,2023-12-09,CUST1775,Beauty & Personal Care,Beauty & Personal Care Product 49,West,Net Banking,3,1716.68,30,1545.01,3605.03,Delivered
+ORD10940,2023-12-09,CUST2126,Electronics,Electronics Product 14,South,Net Banking,4,14021.24,0,0.0,56084.96,Delivered
+ORD10941,2023-12-09,CUST1184,Books,Books Product 32,North,UPI,2,217.59,5,21.76,413.42,Delivered
+ORD10942,2023-12-10,CUST2053,Books,Books Product 6,North,Credit Card,1,351.89,10,35.19,316.7,Delivered
+ORD10943,2023-12-10,CUST1631,Beauty & Personal Care,Beauty & Personal Care Product 20,West,Debit Card,1,670.0,5,33.5,636.5,Delivered
+ORD10944,2023-12-10,CUST2220,Electronics,Electronics Product 25,North,UPI,1,51085.66,0,0.0,51085.66,Delivered
+ORD10945,2023-12-11,CUST1212,Clothing,Clothing Product 13,South,Net Banking,1,2239.68,10,223.97,2015.71,Delivered
+ORD10946,2023-12-11,CUST2103,Beauty & Personal Care,Beauty & Personal Care Product 4,East,Cash on Delivery,2,861.41,10,172.28,1550.54,Delivered
+ORD10947,2023-12-12,CUST4742,Beauty & Personal Care,Beauty & Personal Care Product 2,East,Net Banking,1,1339.22,10,133.92,1205.3,Returned
+ORD10948,2023-12-12,CUST2247,Beauty & Personal Care,Beauty & Personal Care Product 37,West,Cash on Delivery,1,2089.95,15,313.49,1776.46,Returned
+ORD10949,2023-12-12,CUST2529,Electronics,Electronics Product 35,South,Debit Card,2,68470.84,20,27388.34,109553.34,Returned
+ORD10950,2023-12-13,CUST1004,Beauty & Personal Care,Beauty & Personal Care Product 30,East,Debit Card,5,2867.27,15,2150.45,12185.9,Delivered
+ORD10951,2023-12-13,CUST4438,Electronics,Electronics Product 44,West,UPI,4,9513.13,5,1902.63,36149.89,Cancelled
+ORD10952,2023-12-13,CUST3306,Clothing,Clothing Product 5,East,Credit Card,2,3049.83,0,0.0,6099.66,Delivered
+ORD10953,2023-12-14,CUST4597,Books,Books Product 28,South,Net Banking,3,1077.5,20,646.5,2586.0,Cancelled
+ORD10954,2023-12-14,CUST3601,Beauty & Personal Care,Beauty & Personal Care Product 17,West,UPI,1,2880.73,15,432.11,2448.62,Cancelled
+ORD10955,2023-12-14,CUST2345,Clothing,Clothing Product 2,South,Credit Card,1,3412.36,5,170.62,3241.74,Delivered
+ORD10956,2023-12-15,CUST3276,Beauty & Personal Care,Beauty & Personal Care Product 45,West,Cash on Delivery,4,1533.76,15,920.26,5214.78,Delivered
+ORD10957,2023-12-15,CUST1126,Beauty & Personal Care,Beauty & Personal Care Product 43,West,Credit Card,4,426.3,15,255.78,1449.42,Delivered
+ORD10958,2023-12-16,CUST1725,Home & Kitchen,Home & Kitchen Product 50,North,Credit Card,1,14594.57,15,2189.19,12405.38,Delivered
+ORD10959,2023-12-16,CUST4106,Books,Books Product 18,East,Debit Card,1,618.04,0,0.0,618.04,Delivered
+ORD10960,2023-12-16,CUST1959,Electronics,Electronics Product 32,East,Credit Card,2,66221.06,20,26488.42,105953.7,Returned
+ORD10961,2023-12-17,CUST1803,Home & Kitchen,Home & Kitchen Product 41,West,Credit Card,2,7646.15,15,2293.84,12998.46,Delivered
+ORD10962,2023-12-17,CUST3753,Home & Kitchen,Home & Kitchen Product 44,South,Credit Card,1,8751.98,15,1312.8,7439.18,Delivered
+ORD10963,2023-12-17,CUST4504,Beauty & Personal Care,Beauty & Personal Care Product 15,East,Debit Card,1,558.22,5,27.91,530.31,Delivered
+ORD10964,2023-12-18,CUST3788,Electronics,Electronics Product 36,West,Credit Card,2,79396.35,10,15879.27,142913.43,Cancelled
+ORD10965,2023-12-18,CUST2771,Books,Books Product 27,East,Credit Card,4,996.99,0,0.0,3987.96,Cancelled
+ORD10966,2023-12-18,CUST1192,Beauty & Personal Care,Beauty & Personal Care Product 18,West,Net Banking,1,1505.91,20,301.18,1204.73,Returned
+ORD10967,2023-12-19,CUST4308,Books,Books Product 2,South,Cash on Delivery,1,542.05,5,27.1,514.95,Delivered
+ORD10968,2023-12-19,CUST3564,Electronics,Electronics Product 41,North,Credit Card,1,73774.64,5,3688.73,70085.91,Delivered
+ORD10969,2023-12-20,CUST4442,Books,Books Product 17,South,Credit Card,1,704.16,20,140.83,563.33,Cancelled
+ORD10970,2023-12-20,CUST3128,Books,Books Product 16,North,Net Banking,1,432.94,0,0.0,432.94,Cancelled
+ORD10971,2023-12-20,CUST1350,Beauty & Personal Care,Beauty & Personal Care Product 4,North,Cash on Delivery,1,1427.32,10,142.73,1284.59,Delivered
+ORD10972,2023-12-21,CUST4764,Home & Kitchen,Home & Kitchen Product 29,North,UPI,2,13406.21,20,5362.48,21449.94,Delivered
+ORD10973,2023-12-21,CUST1213,Beauty & Personal Care,Beauty & Personal Care Product 19,West,Cash on Delivery,1,1952.94,15,292.94,1660.0,Delivered
+ORD10974,2023-12-21,CUST1043,Electronics,Electronics Product 30,West,Cash on Delivery,1,51297.65,25,12824.41,38473.24,Delivered
+ORD10975,2023-12-22,CUST2859,Books,Books Product 34,East,Net Banking,2,1331.79,5,133.18,2530.4,Delivered
+ORD10976,2023-12-22,CUST4233,Clothing,Clothing Product 13,South,Net Banking,1,806.74,20,161.35,645.39,Delivered
+ORD10977,2023-12-22,CUST1995,Home & Kitchen,Home & Kitchen Product 9,North,Credit Card,1,5653.17,15,847.98,4805.19,Returned
+ORD10978,2023-12-23,CUST2274,Clothing,Clothing Product 38,South,Debit Card,1,1764.15,30,529.25,1234.9,Cancelled
+ORD10979,2023-12-23,CUST3120,Books,Books Product 38,South,Credit Card,1,531.45,10,53.15,478.3,Delivered
+ORD10980,2023-12-24,CUST2408,Clothing,Clothing Product 13,South,Debit Card,3,2682.91,25,2012.18,6036.55,Delivered
+ORD10981,2023-12-24,CUST3456,Electronics,Electronics Product 45,East,Net Banking,2,30616.39,15,9184.92,52047.86,Delivered
+ORD10982,2023-12-24,CUST1429,Beauty & Personal Care,Beauty & Personal Care Product 30,North,Cash on Delivery,2,2896.54,10,579.31,5213.77,Returned
+ORD10983,2023-12-25,CUST3555,Clothing,Clothing Product 14,South,Cash on Delivery,2,4623.7,15,1387.11,7860.29,Delivered
+ORD10984,2023-12-25,CUST2486,Home & Kitchen,Home & Kitchen Product 1,North,UPI,1,12205.43,10,1220.54,10984.89,Delivered
+ORD10985,2023-12-25,CUST4738,Electronics,Electronics Product 49,East,Credit Card,1,46601.87,10,4660.19,41941.68,Delivered
+ORD10986,2023-12-26,CUST3944,Electronics,Electronics Product 12,East,Net Banking,1,19934.22,5,996.71,18937.51,Cancelled
+ORD10987,2023-12-26,CUST1085,Clothing,Clothing Product 44,South,Cash on Delivery,1,1138.32,20,227.66,910.66,Delivered
+ORD10988,2023-12-26,CUST4315,Electronics,Electronics Product 24,South,Net Banking,1,30378.75,10,3037.88,27340.87,Cancelled
+ORD10989,2023-12-27,CUST4615,Beauty & Personal Care,Beauty & Personal Care Product 9,South,Debit Card,4,2668.54,0,0.0,10674.16,Returned
+ORD10990,2023-12-27,CUST4772,Beauty & Personal Care,Beauty & Personal Care Product 3,South,Net Banking,1,1258.33,15,188.75,1069.58,Returned
+ORD10991,2023-12-28,CUST4575,Home & Kitchen,Home & Kitchen Product 9,West,Debit Card,1,11949.02,0,0.0,11949.02,Cancelled
+ORD10992,2023-12-28,CUST3083,Electronics,Electronics Product 25,East,Cash on Delivery,3,63849.89,15,28732.45,162817.22,Returned
+ORD10993,2023-12-28,CUST3931,Beauty & Personal Care,Beauty & Personal Care Product 32,West,UPI,1,1499.41,10,149.94,1349.47,Delivered
+ORD10994,2023-12-29,CUST1848,Beauty & Personal Care,Beauty & Personal Care Product 15,South,Cash on Delivery,4,1322.05,15,793.23,4494.97,Delivered
+ORD10995,2023-12-29,CUST1643,Clothing,Clothing Product 24,East,Net Banking,1,2160.13,25,540.03,1620.1,Delivered
+ORD10996,2023-12-29,CUST1942,Electronics,Electronics Product 38,North,Cash on Delivery,1,15074.77,10,1507.48,13567.29,Cancelled
+ORD10997,2023-12-30,CUST2505,Beauty & Personal Care,Beauty & Personal Care Product 32,East,UPI,1,1938.77,10,193.88,1744.89,Delivered
+ORD10998,2023-12-30,CUST2470,Books,Books Product 6,East,Net Banking,1,133.63,5,6.68,126.95,Delivered
+ORD10999,2023-12-31,CUST1403,Beauty & Personal Care,Beauty & Personal Care Product 8,North,UPI,1,1730.17,5,86.51,1643.66,Returned
